@@ -1,0 +1,1525 @@
+{
+    "mobilbarat": {
+      "metadata": {
+        "title": "Interfaz Amigable para Móviles | FoglaljOnline",
+        "description": "Experiencia perfecta en cada dispositivo. Los huéspedes reservan desde móvil, tú gestionas en tablet u ordenador. Diseño responsive, carga rápida."
+      },
+      "breadcrumbs": {
+        "home": "Inicio",
+        "features": "Características",
+        "current": "Interfaz amigable para móviles"
+      },
+      "hero": {
+        "badge": "Diseño Responsive",
+        "title": "Reserva desde cualquier lugar,",
+        "titleHighlight": "en cualquier dispositivo",
+        "description": "Tus huéspedes pueden reservar rápida y cómodamente desde el móvil. Tú gestionas las reservas fácilmente en tablet u ordenador. Experiencia perfecta en cada dispositivo.",
+        "ctaPrimary": "Prueba Gratuita",
+        "ctaSecondary": "Solicitar Demo"
+      },
+      "stats": [
+        {
+          "value": "78%",
+          "label": "Reservas desde móvil",
+          "description": "La mayoría de huéspedes reserva desde el teléfono"
+        },
+        {
+          "value": "3 seg",
+          "label": "Tiempo de carga promedio",
+          "description": "Experiencia ultrarrápida en cada dispositivo"
+        },
+        {
+          "value": "94%",
+          "label": "Optimizado para móvil",
+          "description": "Experiencia perfecta en pantallas pequeñas también"
+        }
+      ],
+      "features": [
+        {
+          "title": "Reserva móvil en segundos",
+          "description": "Tus huéspedes pueden reservar rápida y cómodamente desde el teléfono. Proceso simple e intuitivo.",
+          "color": "bg-blue-50 text-blue-600"
+        },
+        {
+          "title": "Interfaz de gestión en tablet",
+          "description": "Los restaurantes pueden gestionar reservas en tablet. Interfaz admin optimizada para táctil.",
+          "color": "bg-emerald-50 text-emerald-600"
+        },
+        {
+          "title": "Control total en escritorio",
+          "description": "Estadísticas detalladas, configuración y control completo en ordenador.",
+          "color": "bg-purple-50 text-purple-600"
+        },
+        {
+          "title": "Carga ultrarrápida",
+          "description": "Código optimizado, tiempo de respuesta rápido. Tus huéspedes no esperan, reservan al instante.",
+          "color": "bg-amber-50 text-amber-600"
+        }
+      ],
+      "mobileExperience": {
+        "imageAlt": "Huésped reservando en móvil",
+        "title": "A tus huéspedes les encantará",
+        "description": "El 78% de las reservas llegan desde móvil. Los huéspedes modernos gestionan todo desde su teléfono – así debe ser también la experiencia de reserva.",
+        "features": [
+          {
+            "title": "Navegación simple",
+            "description": "Botones grandes, diseño limpio, fácil de usar"
+          },
+          {
+            "title": "Entrada rápida de datos",
+            "description": "Formularios optimizados para móvil, soporte de autocompletado"
+          },
+          {
+            "title": "Optimizado para táctil",
+            "description": "Cada elemento fácilmente accesible y usable con los dedos"
+          },
+          {
+            "title": "Verificación offline",
+            "description": "Código QR y datos de reserva accesibles sin conexión"
+          }
+        ],
+        "highlight": {
+          "title": "Experiencia del huésped en el centro",
+          "description": "Simple, rápido, intuitivo. Tus huéspedes reservan la mesa en minutos – en cualquier momento, desde cualquier lugar, en cualquier dispositivo."
+        }
+      },
+      "tabletManagement": {
+        "title": "Gestiona en tablet",
+        "titleHighlight": "las reservas",
+        "subtitle": "Interfaz admin optimizada para táctil para restaurante, cafetería, bar",
+        "features": [
+          {
+            "title": "Control táctil",
+            "description": "Mesas, reservas, estados simplemente con los dedos"
+          },
+          {
+            "title": "Modificación rápida",
+            "description": "Cambio de mesa, horarios, número de comensales con un toque"
+          },
+          {
+            "title": "Actualización en tiempo real",
+            "description": "Ve nuevas reservas y cambios inmediatamente"
+          },
+          {
+            "title": "Vista compacta",
+            "description": "Vista general de reservas diarias en una pantalla"
+          }
+        ],
+        "useCase": {
+          "title": "Ideal para escritorio de recepción",
+          "description": "Soporte de tablet en escritorio, llegan huéspedes, check-in con un solo toque. Escaneo de código QR, aprobación de reserva, asignación de mesa – todo rápido y fácil."
+        }
+      },
+      "deviceShowcase": {
+        "title": "Funciona perfectamente",
+        "titleHighlight": "en cada dispositivo",
+        "subtitle": "Adaptación automática al tamaño de pantalla. Sin app separada, sin descarga – solo abre el navegador.",
+        "devices": [
+          {
+            "title": "Móvil (Huéspedes)",
+            "features": [
+              "Reserva rápida en movimiento",
+              "Guardado de código QR",
+              "Modificación de reserva",
+              "Cancelar con un clic"
+            ],
+            "color": "bg-blue-50 text-blue-600"
+          },
+          {
+            "title": "Tablet (Restaurante)",
+            "features": [
+              "Interfaz de control táctil",
+              "Mesas arrastrar y soltar",
+              "Vista general de reservas diarias",
+              "Check-in/check-out rápido"
+            ],
+            "color": "bg-emerald-50 text-emerald-600"
+          },
+          {
+            "title": "Escritorio (Admin)",
+            "features": [
+              "Estadísticas detalladas",
+              "Configuración completa",
+              "Edición de plantillas de email",
+              "Exportar, informes"
+            ],
+            "color": "bg-purple-50 text-purple-600"
+          }
+        ]
+      },
+      "performance": {
+        "title": "Carga ultrarrápida",
+        "subtitle": "Código optimizado, tecnología moderna, servidores rápidos",
+        "items": [
+          {
+            "title": "Carga de 3 segundos",
+            "description": "Cada página carga en 3 segundos en promedio. Tus huéspedes no esperan."
+          },
+          {
+            "title": "Optimizado para móvil",
+            "description": "Tamaños de archivo pequeños, código eficiente, incluso con internet móvil lento."
+          },
+          {
+            "title": "Desarrollo continuo",
+            "description": "Optimización regular de rendimiento, últimas tecnologías."
+          },
+          {
+            "title": "99.9% disponibilidad",
+            "description": "Servidores confiables, operación estable, siempre accesible."
+          }
+        ]
+      },
+      "finalCta": {
+        "title": "¡Pruébalo en todos tus dispositivos!",
+        "description": "Prueba gratuita de 30 días, sin tarjeta de crédito requerida. Prueba en teléfono, tablet, ordenador – ¡perfecto en todas partes!",
+        "ctaPrimary": "Iniciar Prueba Gratuita",
+        "ctaSecondary": "Tengo una pregunta"
+      }
+    },
+  
+    "szabalyok": {
+      "metadata": {
+        "title": "Customizable Rules | FoglaljOnline",
+        "description": "50+ configuration options: opening hours, table management, booking limits, email notifications. You define every rule."
+      },
+      "breadcrumbs": {
+        "home": "Home",
+        "features": "Features",
+        "current": "Customizable rules"
+      },
+      "hero": {
+        "badge": "Complete Rule System",
+        "title": "You define",
+        "titleHighlight": "every rule",
+        "description": "50+ configuration options for perfect operation. Opening hours, table management, booking limits, email notifications – all in one place.",
+        "ctaPrimary": "Free Trial",
+        "ctaSecondary": "Request Demo"
+      },
+      "demo": {
+        "title": "Rules in",
+        "titleHighlight": "action",
+        "subtitle": "Click on rule types to see how they work",
+        "rules": [
+          {
+            "id": "weekly",
+            "name": "Weekly hours",
+            "description": "Standard opening hours for each day",
+            "color": "from-blue-500 to-blue-600",
+            "example": {
+              "title": "Monday-Sunday settings",
+              "visualType": "schedule",
+              "details": []
+            }
+          },
+          {
+            "id": "special",
+            "name": "Special days",
+            "description": "Holidays and unique events",
+            "color": "from-emerald-500 to-emerald-600",
+            "example": {
+              "title": "Holiday settings",
+              "visualType": "list",
+              "details": [
+                "Dec 24, 2025: 11:00-16:00 (modified)",
+                "Dec 25-26, 2025: Closed",
+                "Dec 31, 2025: Only 6+ guests, 4-6 hours",
+                "Jan 1, 2025: 14:00-22:00"
+              ]
+            }
+          },
+          {
+            "id": "closure",
+            "name": "Closure periods",
+            "description": "Intra-day breaks",
+            "color": "from-purple-500 to-purple-600",
+            "example": {
+              "title": "Daily breaks",
+              "visualType": "grid",
+              "details": [
+                "Every Tuesday: 14:30-16:00 (staff meeting)",
+                "Weekdays: 15:00-17:00 (prep work)",
+                "Sunday: 16:00-18:00 (cleaning)"
+              ]
+            }
+          },
+          {
+            "id": "duration",
+            "name": "Duration rules",
+            "description": "Guest count-based time limits",
+            "color": "from-amber-500 to-amber-600",
+            "example": {
+              "title": "New Year's Eve rules",
+              "visualType": "grid",
+              "details": [
+                "1-4 guests: Not bookable online",
+                "5-6 guests: 3-4 hours available",
+                "7-10 guests: 4-5 hours available",
+                "10+ guests: 5-6 hours available"
+              ]
+            }
+          }
+        ],
+        "scheduleData": [
+          {
+            "day": "Monday-Thursday",
+            "hours": "11:00 AM - 11:00 PM",
+            "kitchen": "10:30 PM"
+          },
+          {
+            "day": "Friday-Saturday",
+            "hours": "11:00 AM - 1:00 AM",
+            "kitchen": "12:00 AM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "12:00 PM - 10:00 PM",
+            "kitchen": "9:30 PM"
+          }
+        ],
+        "scheduleLabels": {
+          "opening": "Opening hours:",
+          "kitchen": "Kitchen closes:"
+        },
+        "keywords": {
+          "closed": "Closed",
+          "modified": "modified",
+          "only": "Only"
+        },
+        "autoApplication": {
+          "label": "Automatic application:",
+          "weekly": "Every day, the appropriate opening hours automatically appear on the booking form.",
+          "special": "On special days, the system automatically overrides the standard opening hours.",
+          "closure": "During closure periods, bookings cannot be made, but the restaurant operates.",
+          "duration": "Available durations automatically appear based on guest count."
+        }
+      },
+      "mainFeatures": [
+        {
+          "title": "Opening hours management",
+          "description": "Weekly opening hours, special days, closure periods. Every day fully customizable.",
+          "color": "bg-blue-50 text-blue-600"
+        },
+        {
+          "title": "Table combining",
+          "description": "Automatic merging of smaller tables for larger groups. Optimal utilization.",
+          "color": "bg-emerald-50 text-emerald-600"
+        },
+        {
+          "title": "Overbooking control",
+          "description": "Set maximum oversizing ratio. Example: 4-seat table max. 5 guests.",
+          "color": "bg-purple-50 text-purple-600"
+        },
+        {
+          "title": "Guest count limits",
+          "description": "Maximum guest count, minimum and maximum booking times, automatic approval.",
+          "color": "bg-amber-50 text-amber-600"
+        }
+      ],
+      "allRules": {
+        "title": "Complete",
+        "titleHighlight": "configuration options",
+        "subtitle": "50+ rules and settings for perfect restaurant operation",
+        "categories": [
+          {
+            "category": "Opening hours and time management",
+            "color": "bg-blue-50 text-blue-600",
+            "rules": [
+              {
+                "name": "Weekly opening hours",
+                "description": "Separate opening, closing and kitchen closing times for each day"
+              },
+              {
+                "name": "Special days",
+                "description": "Holidays, closures, modified opening hours management"
+              },
+              {
+                "name": "Recurring rules",
+                "description": "Weekly recurring special settings"
+              },
+              {
+                "name": "Closure periods",
+                "description": "Intra-day breaks (e.g. afternoon closure 2-5 PM)"
+              },
+              {
+                "name": "Booking time limits",
+                "description": "How far in advance to book (minimum: 2 hours, maximum: 30 days)"
+              },
+              {
+                "name": "Duration rules",
+                "description": "Guest count-based durations (e.g. 6+ guests → 3-5 hours available)"
+              }
+            ]
+          },
+          {
+            "category": "Table management and capacity",
+            "color": "bg-emerald-50 text-emerald-600",
+            "rules": [
+              {
+                "name": "Table combining",
+                "description": "Automatic merging of smaller tables for larger groups"
+              },
+              {
+                "name": "Overbooking control",
+                "description": "Max. oversizing ratio (e.g. 100% = double guests allowed)"
+              },
+              {
+                "name": "Area management",
+                "description": "Indoor, patio, private room with separate settings"
+              },
+              {
+                "name": "Maximum guest count",
+                "description": "Restaurant-level guest count limit setting"
+              },
+              {
+                "name": "Table definitions",
+                "description": "Table counts and capacities per area"
+              }
+            ]
+          },
+          {
+            "category": "Booking rules",
+            "color": "bg-purple-50 text-purple-600",
+            "rules": [
+              {
+                "name": "Automatic approval",
+                "description": "Instant booking approval or manual verification"
+              },
+              {
+                "name": "Same-day booking block",
+                "description": "Block same-day bookings after opening (advance only)"
+              },
+              {
+                "name": "Period-based booking block",
+                "description": "Disable online booking on special days (phone only)"
+              },
+              {
+                "name": "Book until closing",
+                "description": "Can book until closing time or only X hours before"
+              },
+              {
+                "name": "Ignore kitchen closing",
+                "description": "Allow booking after kitchen closes (drinks only)"
+              }
+            ]
+          },
+          {
+            "category": "Cancellation and modification",
+            "color": "bg-red-50 text-red-600",
+            "rules": [
+              {
+                "name": "Allow cancellation",
+                "description": "Can guests cancel bookings online"
+              },
+              {
+                "name": "Minimum cancellation time",
+                "description": "How far before booking can be cancelled (e.g. 2 hours)"
+              },
+              {
+                "name": "Cancellation email",
+                "description": "Send automatic email on cancellation"
+              },
+              {
+                "name": "Cancellation reason required",
+                "description": "Must guest provide reason for cancellation"
+              },
+              {
+                "name": "Custom message",
+                "description": "Display own cancellation policy text"
+              }
+            ]
+          },
+          {
+            "category": "Email notifications",
+            "color": "bg-amber-50 text-amber-600",
+            "rules": [
+              {
+                "name": "Booking confirmation",
+                "description": "Send email immediately after booking"
+              },
+              {
+                "name": "Pending email",
+                "description": "Email if booking awaits approval"
+              },
+              {
+                "name": "Cancellation notification",
+                "description": "Send email when booking is cancelled"
+              },
+              {
+                "name": "Modification notification",
+                "description": "Email when booking details change"
+              },
+              {
+                "name": "Rejection email",
+                "description": "Email when restaurant rejects a booking"
+              },
+              {
+                "name": "Reminder email",
+                "description": "Email X hours before booking (e.g. 24 hours)"
+              },
+              {
+                "name": "Feedback request",
+                "description": "Email X hours after booking (e.g. 2-4 hours)"
+              },
+              {
+                "name": "Restaurant notifications",
+                "description": "Send email to restaurant for every new booking"
+              }
+            ]
+          },
+          {
+            "category": "Duration settings",
+            "color": "bg-indigo-50 text-indigo-600",
+            "rules": [
+              {
+                "name": "Time slot length",
+                "description": "Booking slot length in minutes (e.g. 15, 30 minutes)"
+              },
+              {
+                "name": "Available durations",
+                "description": "Selectable durations (e.g. 1, 1.5, 2, 2.5 hours)"
+              },
+              {
+                "name": "Guest count-based duration",
+                "description": "Different durations on special days by party size"
+              }
+            ]
+          }
+        ]
+      },
+      "complexExample": {
+        "title": "Example: Modern Restaurant Complete Setup",
+        "subtitle": "This is what a complete restaurant rule system looks like in practice",
+        "sections": [
+          {
+            "title": "Opening hours",
+            "color": "bg-blue-50 border-blue-200",
+            "items": [
+              "Monday-Thursday: 11:00 AM-11:00 PM (kitchen: 10:30 PM)",
+              "Friday-Saturday: 11:00 AM-1:00 AM (kitchen: 12:00 AM)",
+              "Sunday: 12:00 PM-10:00 PM (kitchen: 9:30 PM)",
+              "Every Tuesday 2:30-4:00 PM: Staff meeting (closed)"
+            ]
+          },
+          {
+            "title": "Booking rules",
+            "color": "bg-emerald-50 border-emerald-200",
+            "items": [
+              "Minimum 2 hours advance booking required",
+              "Maximum 30 days advance booking allowed",
+              "Automatic approval: NO (manual verification)",
+              "Same-day booking after opening: BLOCKED"
+            ]
+          },
+          {
+            "title": "Table management",
+            "color": "bg-purple-50 border-purple-200",
+            "items": [
+              "Table combining: ENABLED",
+              "Max. overbooking: 100% (4-seat table → max 8 guests)",
+              "Indoor: 12x 4-seat tables",
+              "Patio: 8x 4-seat tables (seasonal)"
+            ]
+          },
+          {
+            "title": "Cancellation rules",
+            "color": "bg-red-50 border-red-200",
+            "items": [
+              "Online cancellation: ALLOWED",
+              "Minimum cancellation time: 2 hours",
+              "Cancellation reason: REQUIRED",
+              "Email notification: AUTOMATIC"
+            ]
+          },
+          {
+            "title": "Email notifications",
+            "color": "bg-amber-50 border-amber-200",
+            "items": [
+              "Confirmation: IMMEDIATE",
+              "Reminder: 24 hours before booking",
+              "Feedback request: 2 hours after booking",
+              "Restaurant notification: EVERY booking"
+            ]
+          },
+          {
+            "title": "New Year's Eve special rule",
+            "color": "bg-pink-50 border-pink-200",
+            "items": [
+              "Dec 31, 2025 - Special durations:",
+              "1-4 guests: ONLINE BOOKING BLOCKED",
+              "5-6 guests: 3-4 hours available",
+              "7+ guests: 4-6 hours available"
+            ]
+          }
+        ],
+        "automation": {
+          "title": "Automatic operation",
+          "description": "The system automatically applies all settings. Every booking follows the appropriate rules - opening hours, capacity, duration, email notifications. No manual work!"
+        }
+      },
+      "benefits": {
+        "title": "Why is",
+        "titleHighlight": "detailed regulation important?",
+        "items": [
+          {
+            "title": "Maximum control",
+            "description": "You control every aspect of the booking system. It works exactly as you want."
+          },
+          {
+            "title": "Automation",
+            "description": "Set it once, then it works automatically. No daily manual tasks or adjustments."
+          },
+          {
+            "title": "Error prevention",
+            "description": "System doesn't allow bookings that don't comply with rules. Protection against overbooking."
+          },
+          {
+            "title": "Better guest experience",
+            "description": "Guests see options clearly. No misunderstanding, no conflict."
+          },
+          {
+            "title": "Optimized revenue",
+            "description": "Table combining, overbooking, dynamic durations - everything for revenue maximization."
+          },
+          {
+            "title": "Automatic communication",
+            "description": "Email notifications, reminders, feedback requests - everything goes automatically."
+          }
+        ]
+      },
+      "finalCta": {
+        "title": "Configure your restaurant to your own needs!",
+        "description": "30-day free trial, no credit card required. Start using the complete rule system today!",
+        "ctaPrimary": "Start Free Trial",
+        "ctaSecondary": "I have a question"
+      }
+    },
+  
+    "qrKod": {
+      "metadata": {
+        "title": "Check-in con Código QR | FoglaljOnline",
+        "description": "Check-in ultrarrápido con código QR. Código único para cada reserva, descarga PDF, identificación segura. Solución moderna sin papel."
+      },
+      "breadcrumbs": {
+        "home": "Inicio",
+        "features": "Características",
+        "current": "Check-in con código QR"
+      },
+      "hero": {
+        "badge": "Sistema de Check-in con Código QR",
+        "title": "¿Llegó el huésped?",
+        "titleHighlight": "¡Escanea, listo!",
+        "description": "Tus huéspedes reciben un código QR único al reservar. Al llegar, toda la información es verificable instantáneamente con un solo escaneo – moderno, rápido, sin papel.",
+        "ctaPrimary": "Prueba Gratuita",
+        "ctaSecondary": "Solicitar Demo"
+      },
+      "demo": {
+        "title": "Cómo funciona el",
+        "titleHighlight": "sistema de código QR",
+        "subtitle": "Haz clic en los pasos para una demostración interactiva",
+        "steps": [
+          {
+            "title": "Crear reserva",
+            "description": "El huésped reserva en línea",
+            "color": "from-blue-500 to-blue-600"
+          },
+          {
+            "title": "Generar código QR",
+            "description": "El sistema crea automáticamente el código único",
+            "color": "from-emerald-500 to-emerald-600"
+          },
+          {
+            "title": "Descargar",
+            "description": "El huésped descarga el PDF y código QR",
+            "color": "from-purple-500 to-purple-600"
+          },
+          {
+            "title": "Check-in",
+            "description": "Escanear al llegar - ¡listo!",
+            "color": "from-amber-500 to-amber-600"
+          }
+        ],
+        "details": [
+          {
+            "title": "El huésped reserva en línea",
+            "description": "En la interfaz en línea, seleccionan la hora, ingresan sus datos y reservan la mesa. El sistema funciona automáticamente en segundo plano."
+          },
+          {
+            "title": "Generación de código QR único",
+            "description": "El sistema crea inmediatamente un código QR cifrado y único para la reserva. Este código pertenece solo a esta reservación."
+          },
+          {
+            "title": "Descarga fácil",
+            "description": "El huésped puede descargar la confirmación PDF y el código QR en su página de reserva. Ambos contienen los detalles de la reservación."
+          },
+          {
+            "title": "Check-in ultrarrápido",
+            "description": "Al llegar, el huésped muestra el código QR. Escaneando con cualquier dispositivo inteligente, se muestran instantáneamente los datos del huésped, número de mesa y toda la información importante."
+          }
+        ],
+        "files": {
+          "pdf": "reserva.pdf",
+          "qr": "codigo-qr.png"
+        }
+      },
+      "features": [
+        {
+          "title": "Check-in ultrarrápido",
+          "description": "Verifica instantáneamente la reserva con un solo escaneo. No más búsqueda en listas de nombres.",
+          "color": "bg-blue-50 text-blue-600"
+        },
+        {
+          "title": "Cualquier dispositivo",
+          "description": "Smartphone, tablet o lector QR dedicado - todos los dispositivos funcionan.",
+          "color": "bg-emerald-50 text-emerald-600"
+        },
+        {
+          "title": "Identificación segura",
+          "description": "Código QR único para cada reserva. Solo el huésped tiene acceso a sus datos.",
+          "color": "bg-purple-50 text-purple-600"
+        },
+        {
+          "title": "Descarga PDF y QR",
+          "description": "Tus huéspedes pueden descargar su PDF de reserva y código QR con un clic.",
+          "color": "bg-amber-50 text-amber-600"
+        }
+      ],
+      "howItWorks": {
+        "title": "¿Cómo funciona el",
+        "titleHighlight": "check-in con código QR?",
+        "subtitle": "Tres pasos simples para la experiencia perfecta del huésped",
+        "steps": [
+          {
+            "step": "1",
+            "title": "Confirmación de reserva",
+            "description": "Tu huésped reserva una cita en línea. El sistema genera automáticamente un código QR único."
+          },
+          {
+            "step": "2",
+            "title": "Descargar y guardar",
+            "description": "El huésped puede descargar su reserva en PDF y el código QR como imagen separada. Ambos contienen los detalles de la reserva."
+          },
+          {
+            "step": "3",
+            "title": "Check-in rápido",
+            "description": "Al llegar, el huésped muestra el código QR. Escaneando con cualquier dispositivo inteligente, muestra instantáneamente los detalles de la reserva."
+          }
+        ]
+      },
+      "guestExperience": {
+        "title": "A tus huéspedes les encantará",
+        "description": "Después de reservar, tus huéspedes reciben su propia página de reserva donde toda la información está disponible. Moderno, conveniente, transparente.",
+        "features": [
+          {
+            "title": "Estado de reserva",
+            "desc": "Información en tiempo real sobre la reservación"
+          },
+          {
+            "title": "Descarga PDF",
+            "desc": "Confirmación de reserva imprimible"
+          },
+          {
+            "title": "Descarga código QR",
+            "desc": "Identificador único para check-in rápido"
+          },
+          {
+            "title": "Todo accesible",
+            "desc": "En teléfono, tablet, ordenador"
+          }
+        ],
+        "example": {
+          "name": "Reserva de Ana García",
+          "date": "15 ene 2025 18:00"
+        }
+      },
+      "benefits": {
+        "title": "¿Por qué usar un",
+        "titleHighlight": "sistema de código QR?",
+        "subtitle": "Tecnología moderna que hace las operaciones diarias más simples y eficientes",
+        "items": [
+          {
+            "title": "Sin papeleo",
+            "description": "Olvida las listas de reservas impresas. Todo es digital y accesible."
+          },
+          {
+            "title": "Servicio más rápido",
+            "description": "Reduce el tiempo de espera al llegar. Tus huéspedes lo apreciarán."
+          },
+          {
+            "title": "Menos errores",
+            "description": "Sin errores tipográficos, sin malentendidos. El código QR identifica precisamente la reserva."
+          },
+          {
+            "title": "Apariencia moderna",
+            "description": "Muestra que tu restaurante usa la última tecnología."
+          }
+        ]
+      },
+      "security": {
+        "title": "Seguro y",
+        "titleHighlight": "confiable",
+        "subtitle": "Cada código QR es único y cifrado. Solo el propietario de la reserva tiene acceso a los datos.",
+        "features": [
+          {
+            "title": "Protección de datos",
+            "description": "Códigos QR cifrados, datos de huéspedes protegidos, sistema compatible con GDPR."
+          },
+          {
+            "title": "Ahorro de tiempo",
+            "description": "Reserva verificable en segundos. Sin espera, sin búsqueda."
+          }
+        ]
+      },
+      "useCases": {
+        "title": "Uso",
+        "titleHighlight": "práctico",
+        "subtitle": "Cómo el sistema de código QR simplifica las operaciones diarias",
+        "cases": [
+          {
+            "scenario": "Hora pico",
+            "description": "10 huéspedes llegan a la vez a las 7 PM. Con códigos QR, los escaneas en segundos, sin congestión en la entrada.",
+            "color": "bg-amber-50 text-amber-600"
+          },
+          {
+            "scenario": "Nuevo empleado",
+            "description": "¿Nuevo mesero trabajando? No hay problema. Muéstrales el lector QR, ya saben cómo usarlo – sin tiempo de capacitación.",
+            "color": "bg-blue-50 text-blue-600"
+          },
+          {
+            "scenario": "Verificación telefónica",
+            "description": "¿Huésped llamando? Escanea el código QR que les enviaste por email, ve instantáneamente los detalles de la reserva.",
+            "color": "bg-emerald-50 text-emerald-600"
+          }
+        ]
+      },
+      "finalCta": {
+        "title": "¡Moderniza tu proceso de check-in!",
+        "description": "Prueba gratuita de 30 días, sin tarjeta de crédito requerida. ¡Comienza a usar el sistema de código QR hoy!",
+        "ctaPrimary": "Iniciar Prueba Gratuita",
+        "ctaSecondary": "Tengo una pregunta"
+      }
+    },
+  
+    "dinamikusIdo": {
+      "metadata": {
+        "title": "Reglas de Tiempo Dinámicas | FoglaljOnline",
+        "description": "Configuración automática de duración de reservas según número de comensales, día y hora. Optimiza ingresos con gestión inteligente del tiempo."
+      },
+      "breadcrumbs": {
+        "home": "Inicio",
+        "features": "Características",
+        "current": "Reglas de tiempo dinámicas"
+      },
+      "hero": {
+        "badge": "Gestión Inteligente del Tiempo",
+        "title": "El control de duración ahora es",
+        "titleHighlight": "automático",
+        "description": "Configura las duraciones de reserva una vez según número de comensales, día y hora. El sistema las aplicará automáticamente en cada reserva.",
+        "ctaPrimary": "Prueba Gratuita",
+        "ctaSecondary": "Solicitar Demo"
+      },
+      "demo": {
+        "title": "Reglas en",
+        "titleHighlight": "acción",
+        "subtitle": "Haz clic en las reglas y ve cómo cambian las duraciones disponibles",
+        "rules": [
+          {
+            "id": "default",
+            "name": "Predeterminado",
+            "guests": "Todos los tamaños",
+            "days": "Todos los días",
+            "hours": "Todo el día",
+            "durations": ["1 hora", "1.5 horas", "2 horas", "2.5 horas"],
+            "color": "from-gray-500 to-gray-600"
+          },
+          {
+            "id": "weekend",
+            "name": "Fin de semana",
+            "guests": "Todos los tamaños",
+            "days": "Sábado-Domingo",
+            "hours": "Todo el día",
+            "durations": ["1.5 horas", "2 horas", "2.5 horas", "3 horas"],
+            "color": "from-blue-500 to-blue-600"
+          },
+          {
+            "id": "large-group",
+            "name": "Grupos Grandes",
+            "guests": "6+ personas",
+            "days": "Viernes-Sábado",
+            "hours": "17:00-23:00",
+            "durations": [
+              "2 horas",
+              "2.5 horas",
+              "3 horas",
+              "4 horas",
+              "5 horas"
+            ],
+            "color": "from-purple-500 to-purple-600"
+          },
+          {
+            "id": "peak-hours",
+            "name": "Horas Pico - Grupos Pequeños",
+            "guests": "1-4 personas",
+            "days": "Viernes-Sábado",
+            "hours": "18:00-21:00",
+            "durations": ["1 hora", "1.5 horas"],
+            "color": "from-amber-500 to-amber-600"
+          }
+        ],
+        "labels": {
+          "guests": "Comensales",
+          "days": "Días",
+          "hours": "Período"
+        },
+        "durationsLabel": "DURACIONES DE RESERVA DISPONIBLES",
+        "explanation": "Cómo funciona: Cuando un huésped quiere reservar y las condiciones coinciden con esta regla, estas duraciones aparecen automáticamente como opciones disponibles."
+      },
+      "features": [
+        {
+          "title": "Reglas según número de comensales",
+          "description": "Duraciones diferentes desde 2 personas hasta grupos de 10+. Tú decides los límites.",
+          "color": "bg-blue-50 text-blue-600"
+        },
+        {
+          "title": "Días y períodos de tiempo",
+          "description": "Reglas diferentes para días laborables, fines de semana o incluso por horas.",
+          "color": "bg-emerald-50 text-emerald-600"
+        },
+        {
+          "title": "Duraciones flexibles",
+          "description": "Desde 1 hora hasta 6+ horas en incrementos de 30 minutos. Totalmente personalizable.",
+          "color": "bg-purple-50 text-purple-600"
+        },
+        {
+          "title": "Aplicación automática",
+          "description": "Configúralo una vez, luego el sistema trabaja automáticamente. Sin trabajo manual.",
+          "color": "bg-amber-50 text-amber-600"
+        }
+      ],
+      "howItWorks": {
+        "title": "¿Cómo funcionan las",
+        "titleHighlight": "reglas dinámicas?",
+        "subtitle": "Sistema de reglas de tres capas para máxima flexibilidad",
+        "steps": [
+          {
+            "step": "1",
+            "title": "Configurar tamaño de grupo",
+            "description": "Define categorías de número de comensales: 2 personas, 3-4, 5-6, 7-10, 10+. Duración diferente para cada categoría.",
+            "example": "Menos de 4 personas: 1-2 horas"
+          },
+          {
+            "step": "2",
+            "title": "Seleccionar días",
+            "description": "Especifica qué días aplica la regla. Días laborables, fines de semana o días específicos (ej. viernes-sábado).",
+            "example": "Viernes-sábado: especial"
+          },
+          {
+            "step": "3",
+            "title": "Definir períodos de tiempo",
+            "description": "Opcionalmente establece en qué horas está activa. Por ejemplo, solo después de las 18:00 o todo el día.",
+            "example": "18:00-23:00: tiempo corto"
+          }
+        ]
+      },
+      "useCases": {
+        "title": "Casos de uso",
+        "titleHighlight": "reales",
+        "subtitle": "Cómo optimizar tus operaciones con reglas de tiempo dinámicas",
+        "exampleLabel": "REGLA DE EJEMPLO",
+        "cases": [
+          {
+            "title": "Gestión de horas pico",
+            "description": "¿Noches de viernes-sábado ocupadas? Limita grupos pequeños a 1.5 horas, pero da 3-4 horas a grupos grandes que gastan más.",
+            "example": "Menos de 4 → 1-1.5 hrs | 5+ → 2-4 hrs",
+            "color": "bg-amber-50 text-amber-600"
+          },
+          {
+            "title": "Manejo de grupos grandes",
+            "description": "¿Grupos de 8+ suelen quedarse más tiempo? Dales automáticamente una ventana de 4-6 horas para comer cómodamente.",
+            "example": "8+ personas → 3-6 horas automáticamente",
+            "color": "bg-blue-50 text-blue-600"
+          },
+          {
+            "title": "Reservas de tarde vs. noche",
+            "description": "Permite duraciones más largas antes de las 18:00, pero establece períodos más cortos después durante horas pico.",
+            "example": "Antes 18:00 → 2-4 hrs | Después 18:00 → 1-2 hrs",
+            "color": "bg-purple-50 text-purple-600"
+          },
+          {
+            "title": "Diferencias de fin de semana",
+            "description": "¿Ritmo diferente en fin de semana? Da más tiempo a todas las categorías el sábado-domingo que entre semana.",
+            "example": "Entre semana: 2 hrs máx | Fin de semana: 3-4 hrs máx",
+            "color": "bg-emerald-50 text-emerald-600"
+          }
+        ]
+      },
+      "complexExample": {
+        "title": "Ejemplo complejo:",
+        "titleHighlight": "Rush del viernes por la noche",
+        "subtitle": "Ve cómo funcionan las reglas juntas en un escenario real",
+        "situation": {
+          "title": "Situación",
+          "description": "Las noches de viernes y sábado están extremadamente ocupadas. Muchas mesas pero aún más reservas. Quieres optimizar la rotación."
+        },
+        "rules": [
+          {
+            "title": "Regla predeterminada (entre semana)",
+            "description": "Todos los tamaños: 1, 1.5, 2, 2.5 horas disponibles"
+          },
+          {
+            "title": "Nueva regla: Viernes-sábado 18-23h, 1-5 personas",
+            "description": "Solo 1, 1.5 horas disponibles (rotación rápida)"
+          },
+          {
+            "title": "Nueva regla: Viernes-sábado 18-23h, 6+ personas",
+            "description": "2, 2.5, 3, 4 horas disponibles (mayor gasto, más tiempo)"
+          }
+        ],
+        "result": {
+          "title": "Resultado",
+          "description": "Los grupos pequeños rotan rápidamente (más rotaciones), los grupos grandes cenan cómodamente y gastan más. Durante horas pico puedes servir 30-40% más mesas mientras mantienes satisfechos a los grupos grandes."
+        }
+      },
+      "benefits": {
+        "title": "¿Por qué usar",
+        "titleHighlight": "reglas dinámicas?",
+        "subtitle": "Beneficios comerciales que importan",
+        "items": [
+          {
+            "title": "Ingresos maximizados",
+            "description": "Rotación más rápida durante horas pico, más tiempo en períodos tranquilos. Utilización óptima."
+          },
+          {
+            "title": "Huéspedes más felices",
+            "description": "Los grupos grandes obtienen suficiente tiempo, no se sienten apurados. Experiencia positiva garantizada."
+          },
+          {
+            "title": "Menos conflictos",
+            "description": "Las reglas automáticas significan que no necesitas cronometrar manualmente. Sin error humano o cambios olvidados."
+          },
+          {
+            "title": "Operación flexible",
+            "description": "La estrategia puede cambiarse en cualquier momento. Ajusta estacionalmente, para eventos o incluso por horas."
+          }
+        ]
+      },
+      "settings": {
+        "title": "Libertad completa en configuración",
+        "subtitle": "Tú defines exactamente cómo opera tu restaurante",
+        "sections": [
+          {
+            "title": "Categorías de tamaño de grupo",
+            "items": [
+              "1-2 personas",
+              "3-4 personas",
+              "5-6 personas",
+              "7-10 personas",
+              "10+ personas",
+              "Rangos personalizados"
+            ]
+          },
+          {
+            "title": "Selección de días",
+            "items": [
+              "Días laborables",
+              "Fines de semana",
+              "Días específicos",
+              "Festivos",
+              "Fechas personalizadas",
+              "Rangos de fechas"
+            ]
+          },
+          {
+            "title": "Opciones de duración",
+            "items": [
+              "Incrementos de 30 minutos",
+              "1-6 horas",
+              "Múltiples rangos",
+              "Mínimo/máximo",
+              "Valor predeterminado",
+              "Valores bloqueados"
+            ]
+          },
+          {
+            "title": "Períodos de tiempo",
+            "items": [
+              "Todo el día",
+              "Desayuno (6-11 AM)",
+              "Almuerzo (11 AM-3 PM)",
+              "Cena (5-11 PM)",
+              "Horas personalizadas",
+              "Múltiples períodos"
+            ]
+          }
+        ]
+      },
+      "finalCta": {
+        "title": "¡Comienza a optimizar las reservas!",
+        "description": "Prueba gratuita de 30 días, sin tarjeta de crédito requerida. ¡Configura las reglas dinámicas en minutos!",
+        "ctaPrimary": "Iniciar Prueba Gratuita",
+        "ctaSecondary": "Tengo una pregunta"
+      }
+    },
+    "ertesitesek": {
+      "breadcrumbs": {
+        "home": "Inicio",
+        "features": "Características",
+        "current": "Notificaciones del Navegador"
+      },
+      "metadata": {
+        "title": "Notificaciones del Navegador | FoglaljOnline",
+        "description": "Notificaciones push en tiempo real en cada dispositivo. No te pierdas ninguna reserva, recibe notificaciones instantáneas sobre todos los cambios."
+      },
+  
+      "backButton": "Volver a características",
+      "hero": {
+        "badge": "Notificaciones Push en Tiempo Real",
+        "title": "No te pierdas ni una sola",
+        "titleHighlight": "reserva",
+        "description": "No necesitas actualizar constantemente la página. El sistema te notifica instantáneamente cuando algo sucede, ya sea en escritorio o móvil.",
+        "cta": "Activar Notificaciones",
+        "subtitle": "Activado con un solo clic"
+      },
+      "demo": {
+        "title": "Notificaciones en cada dispositivo,",
+        "titleHighlight": "al instante.",
+        "description": "El sistema se adapta inteligentemente a tu dispositivo. En escritorio, recibes un mensaje discreto en la esquina, mientras que en móvil aparece la notificación push familiar en la parte superior de la pantalla.",
+        "steps": [
+          "Aparece instantáneamente con alerta sonora",
+          "Abre la reserva específica al hacer clic",
+          "Funciona incluso con pantalla bloqueada"
+        ]
+      },
+      "notification": {
+        "time": "Ahora",
+        "initials": "JP",
+        "title": "🎉 ¡Nueva reserva recibida! 🎉",
+        "guestName": "Juan Pérez",
+        "message": "reservó una mesa en Restaurante Gourmet. 🍽️"
+      },
+      "accessibility": {
+        "title": "Accesible para todos",
+        "description": "No requiere instalación complicada ni descarga de aplicación. El sistema se ejecuta en tu navegador y puedes habilitar las notificaciones con un solo botón.",
+        "devices": ["Escritorio", "Móvil", "Tablet"]
+      },
+      "finalCta": {
+        "title": "Mantente siempre actualizado",
+        "description": "Prueba el sistema y experimenta cómo se siente cuando el restaurante \"te habla\" cuando hay algo que hacer.",
+        "ctaPrimary": "Iniciar Prueba Gratuita",
+        "ctaSecondary": "Contáctanos"
+      }
+    },
+  
+    "automatikusEmailek": {
+      "breadcrumbs": {
+        "home": "Inicio",
+        "features": "Características",
+        "current": "Recordatorios Automáticos"
+      },
+      "hero": {
+        "badge": "Recordatorios Automáticos por Email",
+        "title": "Reduce las no-presentaciones en",
+        "titleHighlight": "70%",
+        "description": "Notificaciones automáticas por email en 4 idiomas con plantillas profesionales y seguimiento detallado. ¡Tus huéspedes nunca olvidarán!",
+        "stats": [
+          { "value": "70%", "label": "reducción de no-show" },
+          { "value": "4", "label": "idiomas soportados" },
+          { "value": "99%", "label": "tasa de entrega" }
+        ]
+      },
+      "emailTypes": {
+        "title": "6 tipos de",
+        "titleHighlight": "emails automáticos",
+        "subtitle": "Mantén a tus huéspedes informados profesionalmente en cada paso",
+        "types": [
+          {
+            "title": "Confirmación de reserva",
+            "description": "Email automático enviado inmediatamente después de reservar",
+            "color": "bg-emerald-50 text-emerald-600",
+            "timing": "Inmediatamente"
+          },
+          {
+            "title": "Recordatorio previo",
+            "description": "Recordatorio 24 horas antes de la reserva",
+            "color": "bg-blue-50 text-blue-600",
+            "timing": "24h antes"
+          },
+          {
+            "title": "Aviso de cancelación",
+            "description": "Email enviado cuando se cancela una reserva",
+            "color": "bg-red-50 text-red-600",
+            "timing": "Al cancelar"
+          },
+          {
+            "title": "Aviso de modificación",
+            "description": "Notificación cuando cambian los detalles de la reserva",
+            "color": "bg-amber-50 text-amber-600",
+            "timing": "Al modificar"
+          },
+          {
+            "title": "Aviso de rechazo",
+            "description": "Enviado cuando el restaurante rechaza una reserva",
+            "color": "bg-purple-50 text-purple-600",
+            "timing": "Al rechazar"
+          },
+          {
+            "title": "Solicitud de opinión",
+            "description": "Email enviado 2-4 horas después de la reserva",
+            "color": "bg-pink-50 text-pink-600",
+            "timing": "2-4h después"
+          }
+        ]
+      },
+      "multilingual": {
+        "title": "En 4 idiomas",
+        "titleHighlight": "automáticamente",
+        "subtitle": "Los emails llegan automáticamente en el idioma del huésped",
+        "languages": [
+          { "code": "ES", "name": "Español", "flag": "🇪🇸" },
+          { "code": "EN", "name": "English", "flag": "🇬🇧" },
+          { "code": "DE", "name": "Deutsch", "flag": "🇩🇪" },
+          { "code": "HU", "name": "Magyar", "flag": "🇭🇺" }
+        ],
+        "howItWorks": {
+          "title": "¿Cómo funciona la selección de idioma?",
+          "points": [
+            "Selección automática según el idioma del navegador",
+            "El huésped puede elegir en el formulario de reserva",
+            "Todas las plantillas disponibles en los 4 idiomas",
+            "Puedes editar las traducciones"
+          ]
+        }
+      },
+      "editor": {
+        "title": "Plantillas profesionales y",
+        "titleHighlight": "editor",
+        "description": "Usa plantillas de email hermosas y prediseñadas, o personalízalas para que coincidan con tu marca.",
+        "imageAlt": "Vista previa del editor de email",
+        "features": [
+          "Plantillas profesionales prediseñadas",
+          "Editor visual de emails",
+          "Plantillas separadas para los 4 idiomas",
+          "Enlaces automáticos (cancelación, código QR)"
+        ]
+      },
+      "tracking": {
+        "title": "Email",
+        "titleHighlight": "seguimiento y estadísticas",
+        "subtitle": "Ve exactamente si los emails fueron entregados y abiertos",
+        "stats": [
+          {
+            "title": "Entregados",
+            "value": "98.7%",
+            "color": "text-emerald-600",
+            "bg": "bg-emerald-50"
+          },
+          {
+            "title": "Abiertos",
+            "value": "76.3%",
+            "color": "text-blue-600",
+            "bg": "bg-blue-50"
+          },
+          {
+            "title": "Clics",
+            "value": "45.1%",
+            "color": "text-purple-600",
+            "bg": "bg-purple-50"
+          }
+        ],
+        "features": {
+          "title": "¿Qué puedes rastrear?",
+          "items": [
+            "Emails entregados exitosamente",
+            "Tasa de apertura por huésped",
+            "Clics en enlaces (cancelación, QR)",
+            "Emails rebotados",
+            "Tiempo de entrega",
+            "Estadísticas por idioma"
+          ]
+        }
+      },
+      "finalCta": {
+        "title": "¡Comienza ahora y reduce las no-presentaciones!",
+        "description": "Prueba gratuita de 30 días, sin tarjeta de crédito requerida. ¡Envía tu primer email automático hoy!",
+        "ctaPrimary": "Iniciar Prueba Gratuita",
+        "ctaSecondary": "Ver Plantillas de Email"
+      }
+    },
+  
+    "analitika": {
+      "breadcrumbs": {
+        "home": "Inicio",
+        "features": "Características",
+        "current": "Análisis de Negocio"
+      },
+      "backButton": "Volver a características",
+      "hero": {
+        "badge": "Análisis de Negocio en Tiempo Real",
+        "title": "Saca el máximo provecho de tu restaurante",
+        "titleHighlight": "con el poder de los datos",
+        "description": "Olvida las corazonadas. ¡Toma decisiones basadas en hechos! Informes detallados sobre horas pico, número de huéspedes e ingresos en un solo panel completo.",
+        "cta": "Contacto"
+      },
+      "screenshot": {
+        "alt": "Panel de Análisis"
+      },
+      "features": {
+        "title": "¿Qué preguntas responde el análisis?",
+        "subtitle": "El sistema procesa automáticamente los datos de reservas y proporciona respuestas comprensibles a tus preguntas comerciales más importantes.",
+        "cards": [
+          {
+            "title": "¿Cuándo es la hora pico?",
+            "description": "Ve la carga desglosada por día y hora, para saber cuándo necesitas más personal.",
+            "example": "Ej: \"Pico: Domingo 17:00\"",
+            "badgeColor": "bg-gray-50 text-gray-600 border border-gray-100"
+          },
+          {
+            "title": "Seguimiento de rendimiento",
+            "description": "Compara el rendimiento de esta semana con períodos anteriores.",
+            "example": "Crecimiento: +12% vs. semana pasada",
+            "badgeColor": "bg-emerald-50 text-emerald-700 border border-emerald-100"
+          },
+          {
+            "title": "Estancia promedio",
+            "description": "¿Cuánto tiempo permanecen los huéspedes en promedio? Optimiza la rotación de mesas.",
+            "example": "Ej: \"2.1 horas / mesa\"",
+            "badgeColor": "bg-gray-50 text-gray-600 border border-gray-100"
+          },
+          {
+            "title": "Composición de huéspedes",
+            "description": "¿Qué tamaños de grupo reservan con más frecuencia? (¿2, 4 o 6 personas?)",
+            "example": "Ej: \"Promedio 4.2 personas\"",
+            "badgeColor": "bg-gray-50 text-gray-600 border border-gray-100"
+          }
+        ]
+      },
+      "optimization": {
+        "title": "Optimiza basándote en números",
+        "description": "No necesitas ser científico de datos. El sistema convierte automáticamente datos complejos en gráficos, para que puedas ver tendencias de un vistazo.",
+        "points": [
+          {
+            "title": "Optimización de personal",
+            "description": "Ve con anticipación cuándo necesitas programar más meseros."
+          },
+          {
+            "title": "Medición de marketing",
+            "description": "Rastrea qué campaña trajo más huéspedes."
+          }
+        ]
+      },
+      "charts": {
+        "revenue": {
+          "label": "Ingresos",
+          "growth": "+12%",
+          "days": ["L", "M", "X", "J", "V", "S", "D"]
+        },
+        "visitors": {
+          "label": "Huéspedes",
+          "total": "842",
+          "unit": "huéspedes/semana"
+        },
+        "kpis": [
+          {
+            "label": "Reservas",
+            "value": "214",
+            "highlight": false
+          },
+          {
+            "label": "Prom/Mesa",
+            "value": "€55",
+            "highlight": false
+          },
+          {
+            "label": "Nuevo Huésped",
+            "value": "32%",
+            "highlight": true
+          }
+        ]
+      },
+      "finalCta": {
+        "title": "Toma el control",
+        "description": "Comprende las operaciones de tu restaurante como nunca antes. Los datos no mienten: aumenta tu ganancia con análisis.",
+        "ctaPrimary": "Iniciar Prueba Gratuita",
+        "ctaSecondary": "Contáctanos"
+      }
+    },
+  
+    "vendegkezeles": {
+      "breadcrumbs": {
+        "home": "Inicio",
+        "features": "Características",
+        "current": "Gestión de Huéspedes"
+      },
+      "backButton": "Volver a características",
+      "hero": {
+        "badge": "Sistema CRM Integrado",
+        "title": "Conoce a tus huéspedes",
+        "titleHighlight": "antes de que crucen la puerta",
+        "description": "Identifica clientes habituales y filtra reservas problemáticas al instante. Gestión de huéspedes basada en datos para máximos ingresos.",
+        "cta": "Pruébalo gratis"
+      },
+      "warningSystem": {
+        "title": "Sistema de alertas inteligente",
+        "description": "Sin sorpresas desagradables. El sistema destaca automáticamente a los huéspedes con problemas previos mediante alertas e iconos rojos.",
+        "imageAlt": "Vista de lista - signo de exclamación rojo y fondo",
+        "alertBadge": "Mensaje del sistema",
+        "alertText": "¡Huésped problemático!",
+        "features": [
+          {
+            "title": "Filtrado de no-show",
+            "description": "Ve instantáneamente si alguien tiene una alta tasa de \"No presentación\" antes de darle una mesa."
+          },
+          {
+            "title": "Verificación de historial",
+            "description": "Las advertencias aparecen en la lista de reservas, así el personal sabe inmediatamente a quién vigilar."
+          }
+        ]
+      },
+      "detailedProfile": {
+        "title": "Perfil de huésped de 360 grados:",
+        "titleHighlight": "Todos los datos en un lugar",
+        "description": "Haz clic en el nombre de cualquier huésped para información detallada. El sistema recopila y analiza automáticamente los hábitos de los huéspedes.",
+        "imageAlt": "Perfil detallado - ventana modal grande con estadísticas y gráficos",
+        "cards": [
+          {
+            "title": "Tasa de aceptación",
+            "description": "Ve como porcentaje qué tan confiable es el huésped."
+          },
+          {
+            "title": "Razones de cancelación",
+            "description": "Rastrea por qué cancelaron la reserva."
+          }
+        ],
+        "features": [
+          "Estadísticas de reservas totales y número de huéspedes",
+          "Registro de área favorita (ej. Terraza)",
+          "Hora y frecuencia de última visita",
+          "Notas manuales para el personal"
+        ]
+      },
+      "blogTeaser": {
+        "title": "¿Por qué es importante recopilar datos de huéspedes?",
+        "description": "¿Sabías que la tasa de no-show puede reducirse hasta un 30% si conoces el historial de tus huéspedes? Nuestro sistema te ayuda a tomar decisiones basadas en datos en lugar de emociones.",
+        "buttonText": "Artículo de blog próximamente..."
+      },
+      "finalCta": {
+        "title": "Comienza a construir tu base de datos de huéspedes hoy",
+        "description": "No dejes que se pierda información valiosa. Prueba el sistema sin compromisos y protege tus ingresos.",
+        "ctaPrimary": "Iniciar Prueba Gratuita",
+        "ctaSecondary": "Contáctanos"
+      }
+    },
+  
+    "asztalterkep": {
+      "breadcrumbs": {
+        "home": "Inicio",
+        "features": "Características",
+        "current": "Mapa de Mesas"
+      },
+      "hero": {
+        "badge": "Mapa de Mesas y Gestión de Reservas",
+        "title": "Gestión de reservas moderna",
+        "titleHighlight": "en todos los dispositivos",
+        "description": "Vistas claras, exportación rápida, información detallada de huéspedes - gestiona tus reservas desde cualquier lugar, en cualquier momento.",
+        "ctaPrimary": "Prueba Gratuita",
+        "ctaSecondary": "Solicitar Demo"
+      },
+      "demo": {
+        "title": "Mapa de Mesas - Interior",
+        "subtitle": "Hoy",
+        "liveUpdate": "Actualización en vivo",
+        "scrollHint": "Desliza horizontalmente",
+        "legend": {
+          "confirmed": "Confirmado",
+          "pending": "Pendiente",
+          "arrived": "Llegado"
+        },
+        "notifications": {
+          "newBooking": "Nueva reserva",
+          "checkIn": "Check-in"
+        }
+      },
+      "features": [
+        {
+          "title": "Vistas Modernas",
+          "description": "Revisa fácilmente las reservas alternando entre vistas de lista y tabla.",
+          "color": "bg-blue-50 text-blue-600"
+        },
+        {
+          "title": "Exportación Diaria",
+          "description": "Exporta reservas diarias en formato Excel o CSV con un clic.",
+          "color": "bg-emerald-50 text-emerald-600"
+        },
+        {
+          "title": "Todos los Dispositivos",
+          "description": "Funciona perfectamente en ordenador, tablet y móvil.",
+          "color": "bg-purple-50 text-purple-600"
+        },
+        {
+          "title": "Información Detallada",
+          "description": "Nombre del huésped, teléfono, email, número de personas, área, hora - todo en un lugar.",
+          "color": "bg-amber-50 text-amber-600"
+        }
+      ],
+      "bookingInfo": {
+        "title": "Toda la información",
+        "titleHighlight": "de un vistazo",
+        "subtitle": "Datos detallados de reservas que realmente usarás",
+        "items": [
+          {
+            "label": "Nombre y número de huéspedes",
+            "value": "Anna Kovács (4 personas)"
+          },
+          {
+            "label": "Hora de reserva",
+            "value": "15 ene 2025 - 18:00"
+          },
+          {
+            "label": "Área y mesa",
+            "value": "Interior - Mesa 5"
+          },
+          {
+            "label": "Duración de la reserva",
+            "value": "2.5 horas"
+          }
+        ]
+      },
+      "export": {
+        "title": "Exportación diaria simplificada",
+        "description": "Exporta reservas diarias en formato PDF. Perfecto para contabilidad, estadísticas o impresión.",
+        "features": [
+          "Formato PDF",
+          "Campos de datos completos",
+          "Filtrado por fecha",
+          "Un solo clic"
+        ]
+      },
+      "responsive": {
+        "title": "Perfecto en cada",
+        "titleHighlight": "dispositivo",
+        "subtitle": "Diseño responsive que se adapta automáticamente al tamaño de pantalla. Ordenador, tablet, móvil - perfecto en todos lados.",
+        "devices": [
+          {
+            "icon": "",
+            "title": "Ordenador",
+            "desc": "Conjunto completo de funciones en pantallas grandes"
+          },
+          {
+            "icon": "",
+            "title": "Tablet",
+            "desc": "Diseño optimizado para tablets"
+          },
+          {
+            "icon": "",
+            "title": "Móvil",
+            "desc": "Interfaz optimizada para táctil"
+          }
+        ]
+      },
+      "finalCta": {
+        "title": "¡Pruébalo ahora gratis!",
+        "description": "Prueba gratuita de 30 días, sin tarjeta de crédito. ¡Comienza a usar el mapa de mesas hoy!",
+        "ctaPrimary": "Iniciar Prueba Gratuita",
+        "ctaSecondary": "Tengo una pregunta"
+      }
+    }
+  }

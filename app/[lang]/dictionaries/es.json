@@ -1,0 +1,505 @@
+{
+    "common": {
+      "skipToContent": "Saltar al contenido principal",
+      "navAriaLabel": "Navegación principal",
+      "menuOpen": "Abrir menú",
+      "menuClose": "Cerrar menú",
+      "haveQuestions": "¿Tiene preguntas? ¡Llámenos!",
+      "phone": "+36 30 656 4162"
+    },
+  
+    "footer": {
+      "brand": {
+        "name": "FoglaljOnline",
+        "description": "El sistema de reservas online para restaurantes húngaros. Automatice su negocio y aumente sus ingresos."
+      },
+      "sections": {
+        "features": {
+          "title": "Características",
+          "links": [
+            {
+              "text": "Todas las características",
+              "href": "https://www.bukio.hu/osszes-asztalfoglalas-funkcio"
+            },
+            {
+              "text": "Precios",
+              "href": "#pricing"
+            },
+            {
+              "text": "Formularios de reserva",
+              "href": "#booking-forms"
+            }
+          ]
+        },
+        "resources": {
+          "title": "Recursos",
+          "links": [
+            {
+              "text": "Blog",
+              "href": "/blog"
+            }
+          ]
+        },
+        "support": {
+          "title": "Soporte",
+          "links": [
+            {
+              "text": "Contacto",
+              "href": "#contact"
+            },
+            {
+              "text": "Preguntas frecuentes",
+              "href": "#faq"
+            },
+            {
+              "text": "hello@foglaljonline.hu",
+              "href": "mailto:hello@foglaljonline.hu"
+            }
+          ]
+        },
+        "legal": {
+          "title": "Información legal",
+          "links": [
+            {
+              "text": "Política de privacidad",
+              "href": "/adatkezeles"
+            },
+            {
+              "text": "Términos y condiciones",
+              "href": "/terms"
+            }
+          ]
+        }
+      },
+      "bottom": {
+        "copyright": "Todos los derechos reservados.",
+        "madeWith": "Hecho con",
+        "location": "en Hungría"
+      }
+    },
+  
+    "contact": {
+      "badge": "Contacto",
+      "title": "Póngase en",
+      "titleHighlight": "contacto con nosotros",
+      "subtitle": "¿Tiene preguntas? Le ayudamos a encontrar la mejor solución para su restaurante.",
+      "contactInfo": {
+        "phoneLabel": "Teléfono",
+        "phoneNumber": "+36 30 656 4162",
+        "emailLabel": "Email",
+        "emailAddress": "hello@foglaljonline.hu"
+      },
+      "responseTime": {
+        "label": "Tiempo de respuesta rápido:",
+        "text": "Generalmente respondemos a todas las consultas en 24 horas."
+      },
+      "form": {
+        "title": "Escríbanos",
+        "fields": {
+          "name": {
+            "label": "Nombre",
+            "placeholder": "Su nombre"
+          },
+          "company": {
+            "label": "Nombre del restaurante",
+            "placeholder": "Nombre del restaurante"
+          },
+          "email": {
+            "label": "Dirección de email",
+            "placeholder": "email@ejemplo.com"
+          },
+          "phone": {
+            "label": "Teléfono",
+            "placeholder": "+34 600 123 456"
+          },
+          "message": {
+            "label": "Mensaje",
+            "placeholder": "Describa su pregunta o necesidades..."
+          }
+        },
+        "gdpr": {
+          "text": "Acepto la",
+          "linkText": "política de privacidad"
+        },
+        "submit": {
+          "idle": "Enviar mensaje",
+          "sending": "Enviando..."
+        },
+        "required": "*"
+      },
+      "feedback": {
+        "success": "¡Mensaje enviado con éxito! Nos pondremos en contacto con usted pronto.",
+        "error": "Ocurrió un error al enviar el mensaje.",
+        "validationError": "Por favor, complete los campos obligatorios y acepte la política de privacidad."
+      }
+    },
+  
+    "cta": {
+      "badge": "Prueba gratuita de 30 días",
+      "title": "¿Listo para el cambio?",
+      "subtitle": "Únase a más de 500 propietarios de restaurantes satisfechos. ¡Comience hoy!",
+      "buttons": {
+        "primary": "Iniciar prueba gratuita",
+        "secondary": "Hablemos"
+      },
+      "trustBadges": [
+        "Sin tarifa de instalación",
+        "Cancelable en cualquier momento",
+        "Servicio al cliente en húngaro"
+      ]
+    },
+  
+    "faq": {
+      "badge": "FAQ",
+      "title": "Preguntas",
+      "titleHighlight": "frecuentes",
+      "subtitle": "Las preguntas y respuestas más importantes sobre el servicio.",
+      "faqs": [
+        {
+          "question": "¿Cuánto tiempo lleva la implementación?",
+          "answer": "En promedio, implementamos el sistema en 1-2 días laborables. Si importa datos existentes, la migración completa toma de 3 a 5 días. Le ayudamos durante todo el proceso de implementación."
+        },
+        {
+          "question": "¿Qué sucede después del período de prueba?",
+          "answer": "Al final del período de prueba de 30 días, analizamos el uso y preparamos una cotización personalizada. No hay facturación automática: solo paga si está satisfecho y desea continuar."
+        },
+        {
+          "question": "¿Hay período de permanencia o contrato a largo plazo?",
+          "answer": "No hay período de permanencia. El servicio funciona mensualmente y se puede cancelar en cualquier momento. No hacemos contratos a largo plazo: queremos retener a los clientes con calidad."
+        },
+        {
+          "question": "¿Cómo funciona exactamente el precio?",
+          "answer": "Solo paga por lo que realmente usa. El precio está determinado por el número de reservas, la cantidad de restaurantes y áreas, y las características utilizadas. Sin costos ocultos."
+        },
+        {
+          "question": "¿Qué soporte recibo?",
+          "answer": "Disponemos de soporte por email y teléfono en húngaro e inglés. También proporcionamos documentación detallada y tutoriales en vídeo. Los clientes premium también reciben un gestor de cuenta dedicado."
+        },
+        {
+          "question": "¿Se pueden importar datos existentes?",
+          "answer": "Sí, ayudamos con la migración de datos desde otros sistemas. También está disponible la importación de CSV y Excel. Listas de huéspedes, historial de reservas: traemos todo."
+        },
+        {
+          "question": "¿El sistema es compatible con GDPR?",
+          "answer": "Sí, cumplimos completamente con las regulaciones GDPR. Los datos se almacenan en servidores dentro de la UE y proporcionamos todas las funciones de protección de datos necesarias."
+        },
+        {
+          "question": "¿Puedo usarlo desde mi teléfono móvil?",
+          "answer": "Sí, el sistema es completamente responsive y amigable para móviles. Tanto la interfaz de administración como la interfaz de reserva para huéspedes funcionan perfectamente en teléfonos y tablets."
+        }
+      ],
+      "cta": {
+        "text": "¿No encontró la respuesta a su pregunta?",
+        "button": "Escríbanos"
+      }
+    },
+  
+    "testimonials": {
+      "badge": "Testimonios",
+      "title": "¿Qué dicen",
+      "titleHighlight": "nuestros clientes?",
+      "subtitle": "Más de 500 restaurantes satisfechos ya utilizan nuestro sistema.",
+      "testimonial": {
+        "quote": "Con Foglalj Online, nuestras reservas aumentaron un 40%. El sistema automatizado nos ahorra mucho tiempo, y nuestros huéspedes aman la reserva online simple. ¡Solución profesional para cada restaurante!",
+        "highlight": "aumentó un 40%",
+        "author": {
+          "name": "Pedro García",
+          "role": "Propietario de restaurante",
+          "initials": "PG"
+        }
+      },
+      "trustIndicators": [
+        {
+          "text": "500+ restaurantes"
+        },
+        {
+          "text": "4.9/5 calificación"
+        },
+        {
+          "text": "Soporte en Inglés"
+        }
+      ]
+    },
+  
+    "pricing": {
+      "badge": "Precios",
+      "title": "Pague solo por lo que",
+      "titleHighlight": "usa",
+      "description": "Durante el período de prueba gratuito de 30 días, observamos el uso y luego preparamos una cotización personalizada según sus necesidades.",
+      "steps": [
+        {
+          "title": "30 Días de Prueba Gratuita",
+          "description": "Acceso completo a todas las características sin límite. Sin costos ocultos, sin compromiso.",
+          "features": [
+            "Restaurantes y áreas ilimitados",
+            "Gestión de reservas ilimitada",
+            "Todas las características disponibles",
+            "Personalización completa",
+            "Soporte prioritario"
+          ]
+        },
+        {
+          "title": "Monitoreo de Uso",
+          "description": "Durante el período de prueba, analizamos en detalle el uso del sistema.",
+          "features": [
+            "Número y tipo de reservas",
+            "Número de restaurantes y áreas",
+            "Frecuencia de características usadas",
+            "Tráfico de email y SMS",
+            "Necesidades de soporte"
+          ],
+          "currentBadge": "Actual"
+        },
+        {
+          "title": "Oferta Personalizada",
+          "description": "Basándonos en los datos de uso, preparamos una cotización completamente personalizada.",
+          "features": [
+            "Precio basado en uso real",
+            "Estructura de costos transparente",
+            "Opciones de pago flexibles",
+            "Solución escalable",
+            "Asociación a largo plazo"
+          ]
+        }
+      ],
+      "cta": {
+        "title": "Comience ahora el período de prueba gratuito",
+        "subtitle": "Sin ningún compromiso: no se necesita tarjeta de crédito para registrarse.",
+        "primaryButton": "Iniciar prueba gratuita",
+        "secondaryButton": "Tengo una pregunta"
+      }
+    },
+  
+    "bookingForms": {
+      "badge": "Tipos de formulario",
+      "title": "Formularios de",
+      "titleHighlight": "reserva",
+      "description": "Elija entre 3 tipos de formularios diferentes. Cada plantilla es completamente personalizable y lista para usar de inmediato.",
+      "formTypes": [
+        {
+          "name": "Formulario Estándar",
+          "description": "Formulario de reserva tradicional y simple en una página con todos los campos. Rápido y eficiente.",
+          "features": [
+            "Interfaz de una página",
+            "Llenado rápido",
+            "Toda la información a la vez",
+            "Diseño amigable para móviles"
+          ]
+        },
+        {
+          "name": "Formulario Paso a Paso",
+          "description": "Proceso de varios pasos que guía al usuario a través de secciones.",
+          "features": [
+            "Proceso transparente",
+            "Entrada de datos gradual",
+            "Barra de progreso",
+            "Menor abandono"
+          ],
+          "popular": "Popular"
+        },
+        {
+          "name": "Formulario Chatbot",
+          "description": "Reserva basada en conversación con interacción impulsada por IA. Moderno e interactivo.",
+          "features": [
+            "Conversación natural",
+            "Preguntas impulsadas por IA",
+            "Experiencia personalizada",
+            "Sugerencias inteligentes"
+          ]
+        }
+      ],
+      "buttons": {
+        "preview": "Ver",
+        "demo": "Probar"
+      },
+      "account": {
+        "title": "En su propia cuenta",
+        "subtitle": "Cada paquete incluye",
+        "features": [
+          {
+            "title": "Cambio ilimitado",
+            "description": "Cambie entre tipos de formulario en cualquier momento. Haga lo que mejor funcione para su restaurante."
+          },
+          {
+            "title": "20+ colores predefinidos",
+            "description": "Use todas nuestras paletas de colores proporcionadas. Hermosas, profesionales y probadas."
+          },
+          {
+            "title": "Imagen corporativa propia",
+            "description": "A petición, coordinamos los formularios con el logo y colores de su restaurante."
+          }
+        ]
+      }
+    },
+  
+    "support": {
+      "badge": "Soporte Premium",
+      "title": "No le dejamos solo:",
+      "titleHighlight": "supervisión continua",
+      "description": "Sabemos que en la hostelería no hay descanso. Diseñamos nuestro sistema para proporcionar una base estable, pero si tiene preguntas, nuestro equipo está a su disposición.",
+      "features": {
+        "support": {
+          "title": "Disponibles de lunes a domingo",
+          "description": "Ya sea una pregunta técnica o ayuda con la configuración, nuestro servicio al cliente está disponible todos los días de la semana para resolver cualquier problema."
+        },
+        "monitoring": {
+          "title": "Supervisión proactiva del sistema",
+          "description": "No esperamos a que nos contacte. Nuestros sistemas automatizados monitorean el estado del servicio las 24 horas del día e intervienen inmediatamente en caso de error."
+        },
+        "security": {
+          "title": "Seguridad de datos y respaldo",
+          "description": "Sus datos de reserva están seguros. Realizamos copias de seguridad regulares y nos comunicamos a través de canales cifrados."
+        }
+      },
+      "cta": "Póngase en contacto con nosotros"
+    },
+  
+    "bookingManagement": {
+      "badge": "Gestión de reservas",
+      "title": "Gestione sus reservas",
+      "titleHighlight": "de forma simple y rápida",
+      "description": "Interfaz transparente y moderna para gestionar todas las reservas: en tiempo real, en un solo lugar.",
+      "tabs": {
+        "all": "Todas las reservas",
+        "today": "Reservas de hoy",
+        "pending": "Pendientes"
+      },
+      "statusLabels": {
+        "confirmed": "Confirmado",
+        "pending": "Pendiente",
+        "cancelled": "Cancelado"
+      },
+      "actions": {
+        "approve": "Aprobar",
+        "reject": "Rechazar",
+        "edit": "Editar",
+        "delete": "Eliminar",
+        "addNote": "Añadir nota"
+      },
+      "bookingDetails": {
+        "guests": "personas",
+        "duration": "Duración",
+        "hours": "horas",
+        "table": "Mesa",
+        "area": "Área"
+      }
+    },
+  
+    "features": {
+      "badge": "Características",
+      "title": "Todo lo que un restaurante",
+      "titleHighlight": "moderno necesita",
+      "description": "Solución completa desde la gestión de reservas hasta el análisis empresarial: en un solo lugar.",
+      "learnMore": "Detalles",
+      "features": [
+        {
+          "title": "Mapa de mesas",
+          "description": "Gestión transparente de mesas y huéspedes, datos en tiempo real y exportación de reservas diarias en PDF con un clic.",
+          "link": "/es/funkciok/asztalterkep"
+        },
+        {
+          "title": "Gestión profesional de huéspedes",
+          "description": "Perfiles detallados de huéspedes, historial de reservas y servicios personalizados.",
+          "link": "/es/funkciok/vendegkezeles"
+        },
+        {
+          "title": "Análisis empresarial",
+          "description": "Informes detallados, análisis de ingresos e indicadores de rendimiento en tiempo real.",
+          "link": "/es/funkciok/uzleti-jelentesek"
+        },
+        {
+          "title": "Automatización de emails",
+          "description": "Recordatorios automáticos, confirmaciones y solicitudes de opinión.",
+          "link": "/es/funkciok/automatikus-emlekeztetok"
+        },
+        {
+          "title": "Notificaciones del navegador",
+          "description": "Notificaciones push sobre nuevas reservas, modificaciones y cancelaciones en tiempo real.",
+          "link": "/es/funkciok/bongeszo-ertesitesek"
+        },
+        {
+          "title": "Check-in con código QR",
+          "description": "Sus huéspedes reciben un código QR único: verificable con un solo escaneo al llegar.",
+          "link": "/es/funkciok/qr-kod-bejelentkezes"
+        },
+        {
+          "title": "Reglas de tiempo dinámicas",
+          "description": "Configure automáticamente la duración de la reserva según el número de comensales.",
+          "link": "/es/funkciok/dinamikus-idoszabalyok"
+        },
+        {
+          "title": "Reglas personalizables",
+          "description": "Horarios flexibles, días especiales y condiciones de reserva personalizadas.",
+          "link": "/es/funkciok/testreszabhato-szabalyok"
+        },
+        {
+          "title": "Interfaz amigable para móviles",
+          "description": "Diseño responsive en todos los dispositivos: sus huéspedes pueden reservar desde cualquier lugar.",
+          "link": "/es/funkciok/mobilbarat-felulet"
+        }
+      ],
+      "bottomCta": {
+        "question": "¿Quiere probar todas las características?",
+        "subtitle": "30 días gratis, sin tarjeta de crédito.",
+        "button": "Prueba gratuita"
+      }
+    },
+  
+    "navbar": {
+      "links": {
+        "home": "Inicio",
+        "features": "Características",
+        "pricing": "Precios",
+        "testimonials": "Testimonios",
+        "faq": "FAQ",
+        "contact": "Contacto"
+      },
+      "cta": "Prueba gratuita",
+      "ctaMobile": "Iniciar prueba gratuita",
+      "ariaNav": "Navegación principal",
+      "ariaMenuOpen": "Abrir menú",
+      "ariaMenuClose": "Cerrar menú",
+      "questions": "¿Tiene preguntas? ¡Llámenos!",
+      "langSwitcher": {
+        "label": "Seleccionar idioma",
+        "languages": {
+          "hu": "Magyar",
+          "en": "English",
+          "de": "Deutsch",
+          "es": "Español"
+        }
+      }
+    },
+  
+    "hero": {
+      "badge": "Ya elegido por más de 185 restaurantes húngaros",
+      "title": "Sistema de Reserva de Mesas Online para Restaurantes",
+      "description": "Reduzca el no-show hasta un 70% con recordatorios automáticos. Asignación inteligente de mesas, notificaciones instantáneas, hermosas plantillas de email: configurable en 5 minutos, con soporte en húngaro.",
+      "ctaPrimary": "Pruebo gratis",
+      "ctaSecondary": "Ver las características",
+      "features": {
+        "notifications": "Notificaciones Automáticas",
+        "notificationsSub": "SMS + Email",
+        "setup": "Configuración en 5 Minutos",
+        "setupSub": "Sin conocimientos técnicos",
+        "support": "Soporte en Inglés",
+        "supportSub": "Ayuda real, rápidamente"
+      },
+      "timeline": {
+        "headerTitle": "Línea de tiempo",
+        "mobileTitle": "Reservas de hoy",
+        "today": "Hoy",
+        "live": "En vivo",
+        "indoor": "Interior",
+        "guests": "personas",
+        "newBooking": "¡Nueva Reserva!",
+        "checkIn": "Check-in",
+        "arrivedMsg": "ha llegado",
+        "status": {
+          "confirmed": "Confirmado",
+          "pending": "Pendiente",
+          "arrived": "Llegado"
+        }
+      }
+    }
+  }

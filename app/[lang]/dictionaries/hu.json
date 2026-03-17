@@ -1,0 +1,501 @@
+{
+    "common": {
+      "skipToContent": "Ugrás a fő tartalomra",
+      "navAriaLabel": "Fő navigáció",
+      "menuOpen": "Menü megnyitása",
+      "menuClose": "Menü bezárása",
+      "haveQuestions": "Kérdése van? Hívjon minket!",
+      "phone": "+36 30 656 4162"
+    },
+  
+    "footer": {
+      "brand": {
+        "name": "FoglaljOnline",
+        "description": "Az online foglalási rendszer magyar éttermek számára. Automatizálja üzletét és növelje bevételeit."
+      },
+      "sections": {
+        "features": {
+          "title": "Funkciók",
+          "links": [
+            {
+              "text": "Funkciók",
+              "href": "/#features"
+            },
+            {
+              "text": "Árak",
+              "href": "/#pricing"
+            },
+            {
+              "text": "Foglalási űrlapok",
+              "href": "#booking-forms"
+            }
+          ]
+        },
+        "resources": {
+          "title": "Tudástár",
+          "links": [
+            {
+              "text": "Blog",
+              "href": "/blog"
+            }
+          ]
+        },
+        "support": {
+          "title": "Támogatás",
+          "links": [
+            {
+              "text": "Kapcsolat",
+              "href": "/#contact"
+            },
+            {
+              "text": "Gyakori kérdések",
+              "href": "/#faq"
+            },
+            {
+              "text": "hello@foglaljonline.hu",
+              "href": "mailto:hello@foglaljonline.hu"
+            }
+          ]
+        },
+        "legal": {
+          "title": "Jogi információk",
+          "links": [
+            {
+              "text": "Adatkezelési tájékoztató",
+              "href": "/adatkezeles"
+            }
+          ]
+        }
+      },
+      "bottom": {
+        "copyright": "Minden jog fenntartva.",
+        "madeWith": "Készült",
+        "location": "-vel Magyarországon"
+      }
+    },
+  
+    "contact": {
+      "badge": "Kapcsolat",
+      "title": "Vegye fel velünk a",
+      "titleHighlight": "kapcsolatot",
+      "subtitle": "Kérdése van? Segítünk megtalálni a legjobb megoldást az étterme számára.",
+      "contactInfo": {
+        "phoneLabel": "Telefonszám",
+        "phoneNumber": "+36 30 656 4162",
+        "emailLabel": "Email",
+        "emailAddress": "hello@foglaljonline.hu"
+      },
+      "responseTime": {
+        "label": "Gyors válaszidő:",
+        "text": "Általában 24 órán belül válaszolunk minden megkeresésre."
+      },
+      "form": {
+        "title": "Írjon nekünk",
+        "fields": {
+          "name": {
+            "label": "Név",
+            "placeholder": "Az Ön neve"
+          },
+          "company": {
+            "label": "Étterem neve",
+            "placeholder": "Étterem neve"
+          },
+          "email": {
+            "label": "Email cím",
+            "placeholder": "email@example.com"
+          },
+          "phone": {
+            "label": "Telefonszám",
+            "placeholder": "+36 20 123 4567"
+          },
+          "message": {
+            "label": "Üzenet",
+            "placeholder": "Írja le kérdését vagy igényeit..."
+          }
+        },
+        "gdpr": {
+          "text": "Elfogadom az",
+          "linkText": "adatkezelési tájékoztatót"
+        },
+        "submit": {
+          "idle": "Üzenet küldése",
+          "sending": "Küldés..."
+        },
+        "required": "*"
+      },
+      "feedback": {
+        "success": "Üzenet sikeresen elküldve! Hamarosan felvesszük Önnel a kapcsolatot.",
+        "error": "Hiba történt az üzenet küldésekor.",
+        "validationError": "Kérjük, töltse ki a kötelező mezőket és fogadja el az adatkezelési tájékoztatót."
+      }
+    },
+  
+    "cta": {
+      "badge": "30 napos ingyenes próba",
+      "title": "Készen áll a váltásra?",
+      "subtitle": "Csatlakozzon több mint 500 elégedett étterem tulajdonosához. Kezdje el még ma!",
+      "buttons": {
+        "primary": "Ingyenes próba indítása",
+        "secondary": "Beszéljünk róla"
+      },
+      "trustBadges": [
+        "Nincs setup díj",
+        "Bármikor lemondható",
+        "Magyar ügyfélszolgálat"
+      ]
+    },
+  
+    "faq": {
+      "badge": "GYIK",
+      "title": "Gyakran ismételt",
+      "titleHighlight": "kérdések",
+      "subtitle": "A legfontosabb kérdések és válaszok a szolgáltatásról.",
+      "faqs": [
+        {
+          "question": "Mennyi idő a bevezetés?",
+          "answer": "Átlagosan 1–2 munkanap alatt beüzemeljük a rendszert. Meglévő adatok importálása esetén 3–5 napot vesz igénybe a teljes migráció. A bevezetés során végig segítünk."
+        },
+        {
+          "question": "Mi történik a próbaidőszak után?",
+          "answer": "A 30 napos próbaidőszak végén elemezzük a használatot és személyre szabott árajánlatot készítünk. Nincs automatikus számlázás – csak akkor fizetsz, ha elégedett vagy és folytatni szeretnéd."
+        },
+        {
+          "question": "Van hűségidő vagy hosszú távú szerződés?",
+          "answer": "Nincs hűségidő. A szolgáltatás havi alapon működik és bármikor lemondható. Nem kötünk hosszú távú szerződéseket – a minőséggel szeretnénk megtartani ügyfeleinket."
+        },
+        {
+          "question": "Hogyan működik pontosan az árazás?",
+          "answer": "Csak azért fizetsz, amit ténylegesen használsz. Az árat a foglalások száma, az éttermek és területek mennyisége, valamint a használt funkciók határozzák meg. Nincsenek rejtett költségek."
+        },
+        {
+          "question": "Milyen támogatást kapok?",
+          "answer": "Magyar és Angol nyelvű email és telefonos támogatás érhető el. Emellett részletes dokumentációt és videó oktatóanyagokat biztosítunk. Prémium ügyfeleknek dedikált account manager is jár."
+        },
+        {
+          "question": "Lehet-e importálni meglévő adatokat?",
+          "answer": "Igen, segítünk az adatok migrációjában más rendszerekből. CSV és Excel importálás is elérhető. Vendéglisták, foglalási előzmények – mindent áthozunk."
+        },
+        {
+          "question": "A rendszer GDPR kompatibilis?",
+          "answer": "Igen, teljes mértékben megfelelünk a GDPR előírásainak. Az adatok EU-n belüli szervereken tárolódnak, és biztosítjuk az összes szükséges adatvédelmi funkciót."
+        },
+        {
+          "question": "Használhatom mobiltelefonról is?",
+          "answer": "Igen, a rendszer teljesen reszponzív és mobilbarát. Mind az admin felület, mind a vendégek foglalási felülete tökéletesen működik telefonon és tableten is."
+        }
+      ],
+      "cta": {
+        "text": "Nem találta meg a választ a kérdésére?",
+        "button": "Írjon nekünk"
+      }
+    },
+  
+    "testimonials": {
+      "badge": "Vélemények",
+      "title": "Mit mondanak",
+      "titleHighlight": "ügyfeleink?",
+      "subtitle": "Több mint 500 elégedett étterem használja már a rendszerünket.",
+      "testimonial": {
+        "quote": "A Foglalj Online segítségével 40%-kal nőtt a foglalásaink száma. Az automatizált rendszer rengeteg időt spórol meg nekünk, és a vendégeink imádják az egyszerű online foglalást. Professzionális megoldás minden étterem számára!",
+        "highlight": "40%-kal nőtt",
+        "author": {
+          "name": "Kovács Péter",
+          "role": "Étterem tulajdonos",
+          "initials": "KP"
+        }
+      },
+      "trustIndicators": [
+        {
+          "text": "500+ étterem"
+        },
+        {
+          "text": "4.9/5 értékelés"
+        },
+        {
+          "text": "Magyar támogatás"
+        }
+      ]
+    },
+  
+    "pricing": {
+      "badge": "Árazás",
+      "title": "Fizess csak azért, amit",
+      "titleHighlight": "használsz",
+      "description": "30 napos ingyenes próbaidőszak alatt megfigyeljük a használatot, majd személyre szabott árajánlatot készítünk az igényeid alapján.",
+      "steps": [
+        {
+          "title": "30 Nap Ingyenes Próba",
+          "description": "Teljes hozzáférés minden funkcióhoz korlátlanul. Nincs rejtett költség, nincs kötöttség.",
+          "features": [
+            "Korlátlan étterem és terület",
+            "Korlátlan foglalás kezelés",
+            "Minden funkció elérhető",
+            "Teljes testreszabhatóság",
+            "Prioritás támogatás"
+          ]
+        },
+        {
+          "title": "Használat Monitorozás",
+          "description": "A próbaidőszak alatt részletesen elemezzük a rendszer használatát.",
+          "features": [
+            "Foglalások száma és típusa",
+            "Éttermek és területek száma",
+            "Használt funkciók gyakorisága",
+            "Email és SMS forgalom",
+            "Támogatási igények"
+          ],
+          "currentBadge": "Aktuális"
+        },
+        {
+          "title": "Személyre Szabott Ajánlat",
+          "description": "A használati adatok alapján készítünk egy teljesen személyre szabott árajánlatot.",
+          "features": [
+            "Valós használat alapú ár",
+            "Átlátható költségstruktúra",
+            "Rugalmas fizetési lehetőségek",
+            "Skálázható megoldás",
+            "Hosszú távú partnerség"
+          ]
+        }
+      ],
+      "cta": {
+        "title": "Kezdje el most az ingyenes próbaidőszakot",
+        "subtitle": "Semmilyen kötelezettség nélkül – bankkártya sem kell a regisztrációhoz.",
+        "primaryButton": "Ingyenes próba indítása",
+        "secondaryButton": "Kérdésem van"
+      }
+    },
+  
+    "bookingForms": {
+      "badge": "Űrlap típusok",
+      "title": "Foglalási",
+      "titleHighlight": "űrlapok",
+      "description": "Válassz 3 különböző űrlap típus közül. Minden sablon teljesen testreszabható és azonnal használható.",
+      "formTypes": [
+        {
+          "name": "Standard Űrlap",
+          "description": "Hagyományos, egyszerű foglalási űrlap egy lapon minden mezővel. Gyors és hatékony.",
+          "features": [
+            "Egyoldalas felület",
+            "Gyors kitöltés",
+            "Összes információ egyszerre",
+            "Mobilbarát dizájn"
+          ]
+        },
+        {
+          "name": "Lépésenkénti Űrlap",
+          "description": "Többlépéses folyamat, amely szakaszokra bontva vezeti végig a felhasználót.",
+          "features": [
+            "Átlátható folyamat",
+            "Fokozatos adatbevitel",
+            "Haladásjelző sáv",
+            "Alacsonyabb lemorzsolódás"
+          ],
+          "popular": "Népszerű"
+        },
+        {
+          "name": "Chatbot Űrlap",
+          "description": "Beszélgetés alapú foglalás AI-powered interakcióval. Modern és interaktív.",
+          "features": [
+            "Természetes beszélgetés",
+            "AI-vezérelt kérdések",
+            "Személyre szabott élmény",
+            "Intelligens javaslatok"
+          ]
+        }
+      ],
+      "buttons": {
+        "preview": "Megtekintés",
+        "demo": "Kipróbálás"
+      },
+      "account": {
+        "title": "Saját fiókodban",
+        "subtitle": "Minden csomag tartalmazza",
+        "features": [
+          {
+            "title": "Korlátlan váltogatás",
+            "description": "Bármikor válts az űrlaptípusok között. Tedd azt, ami az éttermedhez legjobban passzol."
+          },
+          {
+            "title": "20+ előre készített szín",
+            "description": "Használd az összes megadott színskálánkat. Szépek, professzionálisak és teszteltek."
+          },
+          {
+            "title": "Saját arculat",
+            "description": "Kérésre összehangoztuk az űrlapokat az éttermed logójával és színeivel."
+          }
+        ]
+      }
+    },
+  
+    "support": {
+      "badge": "Prémium Támogatás",
+      "title": "Nem hagyunk magadra:",
+      "titleHighlight": "folyamatos felügyelet",
+      "description": "Tudjuk, hogy a vendéglátásban nincs megállás. Rendszerünket úgy terveztük, hogy stabil hátteret biztosítson, de ha mégis kérdésed van, csapatunk rendelkezésedre áll.",
+      "features": {
+        "support": {
+          "title": "Hétfőtől Vasárnapig elérhetőek vagyunk",
+          "description": "Legyen szó technikai kérdésről vagy beállítási segítségről, ügyfélszolgálatunk a hét minden napján segít megoldani a felmerülő problémákat."
+        },
+        "monitoring": {
+          "title": "Proaktív rendszerfelügyelet",
+          "description": "Nem várjuk meg, amíg szólsz. Automatizált rendszereink a nap 24 órájában figyelik a szolgáltatás állapotát, és azonnal beavatkoznak hiba esetén."
+        },
+        "security": {
+          "title": "Adatbiztonság és mentés",
+          "description": "A foglalási adataid biztonságban vannak. Rendszeres biztonsági mentéseket készítünk és titkosított csatornákon kommunikálunk."
+        }
+      },
+      "cta": "Vedd fel velünk a kapcsolatot"
+    },
+  
+    "bookingManagement": {
+      "badge": "Foglaláskezelés",
+      "title": "Kezelje foglalásait",
+      "titleHighlight": "egyszerűen és gyorsan",
+      "description": "Átlátható, modern felület minden foglalás kezeléséhez – valós időben, egy helyen.",
+      "tabs": {
+        "all": "Összes foglalás",
+        "today": "Mai foglalások",
+        "pending": "Függőben"
+      },
+      "statusLabels": {
+        "confirmed": "Jóváhagyva",
+        "pending": "Függőben",
+        "cancelled": "Lemondva"
+      },
+      "actions": {
+        "approve": "Jóváhagyás",
+        "reject": "Elutasítás",
+        "edit": "Szerkesztés",
+        "delete": "Törlés",
+        "addNote": "Jegyzet hozzáadása"
+      },
+      "bookingDetails": {
+        "guests": "fő",
+        "duration": "Időtartam",
+        "hours": "óra",
+        "table": "Asztal",
+        "area": "Terület"
+      }
+    },
+  
+    "features": {
+      "badge": "Funkciók",
+      "title": "Minden, ami egy modern",
+      "titleHighlight": "étteremnek kell",
+      "description": "Komplex megoldás a foglaláskezeléstől az üzleti analitikáig – egy helyen.",
+      "learnMore": "Részletek",
+      "features": [
+        {
+          "title": "Asztaltérkép",
+          "description": "Átlátható asztal és vendégkezelés, valós idejű adatok és egy kattintásos napi foglalások exportálása PDF-ben.",
+          "link": "/funkciok/asztalterkep"
+        },
+        {
+          "title": "Professzionális vendégkezelés",
+          "description": "Részletes vendégprofilok, foglalási előzmények és személyre szabott szolgáltatások.",
+          "link": "/funkciok/vendegkezeles"
+        },
+        {
+          "title": "Üzleti analitika",
+          "description": "Részletes jelentések, bevétel elemzés és teljesítmény mutatók valós időben.",
+          "link": "/funkciok/uzleti-jelentesek"
+        },
+        {
+          "title": "Email automatizálás",
+          "description": "Automatikus emlékeztetők, megerősítések és visszajelzés kérések.",
+          "link": "/funkciok/automatikus-emlekeztetok"
+        },
+        {
+          "title": "Böngésző értesítések",
+          "description": "Push értesítések új foglalásokról, módosításokról és lemondásokról valós időben.",
+          "link": "/funkciok/bongeszo-ertesitesek"
+        },
+        {
+          "title": "QR-kódos bejelentkezés",
+          "description": "Vendégei egyedi QR-kódot kapnak – érkezéskor egyetlen beolvasással ellenőrizhető.",
+          "link": "/funkciok/qr-kod-bejelentkezes"
+        },
+        {
+          "title": "Dinamikus időszabályok",
+          "description": "Automatikusan állítsa be a foglalás időtartamát a vendégszám alapján.",
+          "link": "/funkciok/dinamikus-idoszabalyok"
+        },
+        {
+          "title": "Testreszabható szabályok",
+          "description": "Rugalmas nyitvatartás, speciális napok és egyedi foglalási feltételek.",
+          "link": "/funkciok/testreszabhato-szabalyok"
+        },
+        {
+          "title": "Mobilbarát felület",
+          "description": "Reszponzív design minden eszközön – vendégei bárhonnan foglalhatnak.",
+          "link": "/funkciok/mobilbarat-felulet"
+        }
+      ],
+      "bottomCta": {
+        "question": "Szeretné kipróbálni az összes funkciót?",
+        "subtitle": "30 napig ingyenesen, bankkártya nélkül.",
+        "button": "Ingyenes próba"
+      }
+    },
+  
+    "navbar": {
+      "links": {
+        "home": "Kezdőlap",
+        "features": "Funkciók",
+        "pricing": "Árazás",
+        "testimonials": "Vélemények",
+        "faq": "GYIK",
+        "contact": "Kapcsolat"
+      },
+      "cta": "Ingyenes próba",
+      "ctaMobile": "Ingyenes próba indítása",
+      "ariaNav": "Fő navigáció",
+      "ariaMenuOpen": "Menü megnyitása",
+      "ariaMenuClose": "Menü bezárása",
+      "questions": "Kérdése van? Hívjon minket!",
+      "langSwitcher": {
+        "label": "Nyelv választása",
+        "languages": {
+          "hu": "Magyar",
+          "en": "English",
+          "de": "Deutsch",
+          "es": "Español"
+        }
+      }
+    },
+  
+    "hero": {
+      "badge": "Már 185+ magyar étterem választása",
+      "title": "Online Asztalfoglalási Rendszer Éttermeknek",
+      "description": "Csökkentse a no-show-t akár 70%-kal automatikus emlékeztetőkkel. Intelligens asztalkiosztás, azonnali értesítések, gyönyörű email sablonok – 5 perc alatt beállítható, magyar supporttal.",
+      "ctaPrimary": "Kipróbálom ingyen",
+      "ctaSecondary": "Megnézem a funkciókat",
+      "features": {
+        "notifications": "Automata Értesítések",
+        "notificationsSub": "SMS + Email",
+        "setup": "5 Perces Setup",
+        "setupSub": "Technikai tudás nélkül",
+        "support": "Magyar Support",
+        "supportSub": "Valódi segítség, gyorsan"
+      },
+      "timeline": {
+        "headerTitle": "Idővonal",
+        "mobileTitle": "Mai foglalások",
+        "today": "Ma",
+        "live": "Élő",
+        "indoor": "Beltér",
+        "guests": "fő",
+        "newBooking": "Új Foglalás!",
+        "checkIn": "Check-in",
+        "arrivedMsg": "megérkezett",
+        "status": {
+          "confirmed": "Visszaigazolt",
+          "pending": "Függőben",
+          "arrived": "Megérkezett"
+        }
+      }
+    }
+  }

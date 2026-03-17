@@ -1,0 +1,498 @@
+{
+    "common": {
+      "skipToContent": "Zum Hauptinhalt springen",
+      "navAriaLabel": "Hauptnavigation",
+      "menuOpen": "Menü öffnen",
+      "menuClose": "Menü schließen",
+      "haveQuestions": "Fragen? Rufen Sie uns an!",
+      "phone": "+36 30 656 4162"
+    },
+    "footer": {
+      "brand": {
+        "name": "BookOnline",
+        "description": "Das Online-Reservierungssystem für Restaurants. Automatisieren Sie Ihr Geschäft und steigern Sie Ihren Umsatz."
+      },
+      "sections": {
+        "features": {
+          "title": "Funktionen",
+          "links": [
+            {
+              "text": "Alle Funktionen",
+              "href": "https://www.bukio.hu/osszes-asztalfoglalas-funkcio"
+            },
+            {
+              "text": "Preise",
+              "href": "#pricing"
+            },
+            {
+              "text": "Formulartypen",
+              "href": "#booking-forms"
+            }
+          ]
+        },
+        "resources": {
+          "title": "Ressourcen",
+          "links": [
+            {
+              "text": "Blog",
+              "href": "/blog"
+            }
+          ]
+        },
+        "support": {
+          "title": "Support",
+          "links": [
+            {
+              "text": "Kontakt",
+              "href": "#contact"
+            },
+            {
+              "text": "FAQ",
+              "href": "#faq"
+            },
+            {
+              "text": "hello@foglaljonline.hu",
+              "href": "mailto:hello@foglaljonline.hu"
+            }
+          ]
+        },
+        "legal": {
+          "title": "Rechtliches",
+          "links": [
+            {
+              "text": "Datenschutzerklärung",
+              "href": "/adatkezeles"
+            }
+          ]
+        }
+      },
+      "bottom": {
+        "copyright": "Alle Rechte vorbehalten.",
+        "madeWith": "Hergestellt mit",
+        "location": "in Ungarn"
+      }
+    },
+    "contact": {
+      "badge": "Kontakt",
+      "title": "Nehmen Sie",
+      "titleHighlight": "Kontakt auf",
+      "subtitle": "Haben Sie Fragen? Wir helfen Ihnen, die beste Lösung für Ihr Restaurant zu finden.",
+      "contactInfo": {
+        "phoneLabel": "Telefon",
+        "phoneNumber": "+36 30 656 4162",
+        "emailLabel": "E-Mail",
+        "emailAddress": "hello@bookonline.com"
+      },
+      "responseTime": {
+        "label": "Schnelle Reaktionszeit:",
+        "text": "Wir antworten in der Regel innerhalb von 24 Stunden auf alle Anfragen."
+      },
+      "form": {
+        "title": "Schreiben Sie uns",
+        "fields": {
+          "name": {
+            "label": "Name",
+            "placeholder": "Ihr Name"
+          },
+          "company": {
+            "label": "Restaurantname",
+            "placeholder": "Restaurantname"
+          },
+          "email": {
+            "label": "E-Mail-Adresse",
+            "placeholder": "email@beispiel.com"
+          },
+          "phone": {
+            "label": "Telefonnummer",
+            "placeholder": "+49 123 456 7890"
+          },
+          "message": {
+            "label": "Nachricht",
+            "placeholder": "Beschreiben Sie Ihre Frage oder Anforderungen..."
+          }
+        },
+        "gdpr": {
+          "text": "Ich akzeptiere die",
+          "linkText": "Datenschutzerklärung"
+        },
+        "submit": {
+          "idle": "Nachricht senden",
+          "sending": "Wird gesendet..."
+        },
+        "required": "*"
+      },
+      "feedback": {
+        "success": "Nachricht erfolgreich gesendet! Wir melden uns in Kürze bei Ihnen.",
+        "error": "Beim Senden der Nachricht ist ein Fehler aufgetreten.",
+        "validationError": "Bitte füllen Sie die erforderlichen Felder aus und akzeptieren Sie die Datenschutzerklärung."
+      }
+    },
+  
+    "cta": {
+      "badge": "30 Tage kostenlos testen",
+      "title": "Bereit für den Wechsel?",
+      "subtitle": "Schließen Sie sich über 500 zufriedenen Restaurantbesitzern an. Starten Sie noch heute!",
+      "buttons": {
+        "primary": "Kostenlos starten",
+        "secondary": "Kontaktieren Sie uns"
+      },
+      "trustBadges": [
+        "Keine Einrichtungsgebühr",
+        "Jederzeit kündbar",
+        "Deutscher Support"
+      ]
+    },
+  
+    "faq": {
+      "badge": "FAQ",
+      "title": "Häufig gestellte",
+      "titleHighlight": "Fragen",
+      "subtitle": "Die wichtigsten Fragen und Antworten zum Service.",
+      "faqs": [
+        {
+          "question": "Wie lange dauert die Implementierung?",
+          "answer": "Wir richten das System in der Regel innerhalb von 1-2 Werktagen ein. Bei Import bestehender Daten dauert die vollständige Migration 3-5 Tage. Wir unterstützen Sie während der gesamten Implementierung."
+        },
+        {
+          "question": "Was passiert nach dem Testzeitraum?",
+          "answer": "Am Ende der 30-tägigen Testphase analysieren wir die Nutzung und erstellen ein personalisiertes Angebot. Keine automatische Abrechnung – Sie zahlen nur, wenn Sie zufrieden sind und weitermachen möchten."
+        },
+        {
+          "question": "Gibt es eine Bindungsfrist oder einen langfristigen Vertrag?",
+          "answer": "Keine Bindungsfrist. Der Service wird monatlich abgerechnet und kann jederzeit gekündigt werden. Wir binden keine langfristigen Verträge – wir möchten Kunden durch Qualität halten."
+        },
+        {
+          "question": "Wie funktioniert die Preisgestaltung genau?",
+          "answer": "Sie zahlen nur für das, was Sie tatsächlich nutzen. Die Preise werden durch die Anzahl der Buchungen, Restaurants und Bereiche sowie die genutzten Funktionen bestimmt. Keine versteckten Kosten."
+        },
+        {
+          "question": "Welchen Support erhalte ich?",
+          "answer": "Deutscher und englischer E-Mail- und Telefonsupport ist verfügbar. Wir bieten auch ausführliche Dokumentation und Video-Tutorials. Premium-Kunden erhalten einen persönlichen Ansprechpartner."
+        },
+        {
+          "question": "Kann ich bestehende Daten importieren?",
+          "answer": "Ja, wir helfen bei der Migration von Daten aus anderen Systemen. CSV- und Excel-Import ist verfügbar. Gästelisten, Buchungshistorie – wir übernehmen alles."
+        },
+        {
+          "question": "Ist das System DSGVO-konform?",
+          "answer": "Ja, wir erfüllen alle DSGVO-Anforderungen vollständig. Die Daten werden auf EU-Servern gespeichert, und wir gewährleisten alle notwendigen Datenschutzfunktionen."
+        },
+        {
+          "question": "Kann ich es vom Handy aus nutzen?",
+          "answer": "Ja, das System ist vollständig responsiv und mobilfreundlich. Sowohl die Admin-Oberfläche als auch die Gäste-Buchungsoberfläche funktionieren perfekt auf Smartphones und Tablets."
+        }
+      ],
+      "cta": {
+        "text": "Haben Sie Ihre Antwort nicht gefunden?",
+        "button": "Kontaktieren Sie uns"
+      }
+    },
+  
+    "testimonials": {
+      "badge": "Bewertungen",
+      "title": "Was sagen unsere",
+      "titleHighlight": "Kunden?",
+      "subtitle": "Mehr als 500 zufriedene Restaurants nutzen bereits unser System.",
+      "testimonial": {
+        "quote": "Mit Book Online sind unsere Buchungen um 40% gestiegen. Das automatisierte System spart uns viel Zeit, und unsere Gäste lieben die einfache Online-Buchung. Eine professionelle Lösung für jedes Restaurant!",
+        "highlight": "um 40% gestiegen",
+        "author": {
+          "name": "Peter Schmidt",
+          "role": "Restaurantbesitzer",
+          "initials": "PS"
+        }
+      },
+      "trustIndicators": [
+        {
+          "text": "500+ Restaurants"
+        },
+        {
+          "text": "4,9/5 Bewertung"
+        },
+        {
+          "text": "Deutscher Support"
+        }
+      ]
+    },
+  
+    "pricing": {
+      "badge": "Preise",
+      "title": "Zahlen Sie nur für das, was Sie",
+      "titleHighlight": "nutzen",
+      "description": "Während einer 30-tägigen kostenlosen Testphase überwachen wir die Nutzung und erstellen dann ein personalisiertes Angebot basierend auf Ihren Bedürfnissen.",
+      "steps": [
+        {
+          "title": "30 Tage kostenlos testen",
+          "description": "Vollständiger Zugang zu allen Funktionen ohne Limits. Keine versteckten Kosten, keine Verpflichtung.",
+          "features": [
+            "Unbegrenzte Restaurants und Bereiche",
+            "Unbegrenzte Buchungsverwaltung",
+            "Alle Funktionen verfügbar",
+            "Vollständige Anpassung",
+            "Prioritäts-Support"
+          ]
+        },
+        {
+          "title": "Nutzungsüberwachung",
+          "description": "Während der Testphase analysieren wir die Systemnutzung im Detail.",
+          "features": [
+            "Anzahl und Art der Buchungen",
+            "Anzahl der Restaurants und Bereiche",
+            "Häufigkeit der Funktionsnutzung",
+            "E-Mail- und SMS-Verkehr",
+            "Support-Anfragen"
+          ],
+          "currentBadge": "Aktuell"
+        },
+        {
+          "title": "Personalisiertes Angebot",
+          "description": "Basierend auf den Nutzungsdaten erstellen wir ein vollständig personalisiertes Angebot.",
+          "features": [
+            "Preise basierend auf tatsächlicher Nutzung",
+            "Transparente Kostenstruktur",
+            "Flexible Zahlungsoptionen",
+            "Skalierbare Lösung",
+            "Langfristige Partnerschaft"
+          ]
+        }
+      ],
+      "cta": {
+        "title": "Starten Sie jetzt Ihre kostenlose Testphase",
+        "subtitle": "Keine Verpflichtung – keine Kreditkarte für die Registrierung erforderlich.",
+        "primaryButton": "Kostenlos starten",
+        "secondaryButton": "Ich habe eine Frage"
+      }
+    },
+  
+    "bookingForms": {
+      "badge": "Formulartypen",
+      "title": "Buchungs-",
+      "titleHighlight": "Formulare",
+      "description": "Wählen Sie aus 3 verschiedenen Formulartypen. Jede Vorlage ist vollständig anpassbar und sofort einsatzbereit.",
+      "formTypes": [
+        {
+          "name": "Standard-Formular",
+          "description": "Traditionelles, einfaches Buchungsformular mit allen Feldern auf einer Seite. Schnell und effizient.",
+          "features": [
+            "Einseitige Oberfläche",
+            "Schnelles Ausfüllen",
+            "Alle Informationen auf einmal",
+            "Mobilfreundliches Design"
+          ]
+        },
+        {
+          "name": "Schritt-für-Schritt-Formular",
+          "description": "Mehrstufiger Prozess, der Benutzer schrittweise durch die Abschnitte führt.",
+          "features": [
+            "Klarer Prozess",
+            "Schrittweise Dateneingabe",
+            "Fortschrittsanzeige",
+            "Geringere Abbruchrate"
+          ],
+          "popular": "Beliebt"
+        },
+        {
+          "name": "Chatbot-Formular",
+          "description": "Konversationsbasierte Buchung mit KI-gestützter Interaktion. Modern und interaktiv.",
+          "features": [
+            "Natürliche Konversation",
+            "KI-gesteuerte Fragen",
+            "Personalisiertes Erlebnis",
+            "Intelligente Vorschläge"
+          ]
+        }
+      ],
+      "buttons": {
+        "preview": "Vorschau",
+        "demo": "Ausprobieren"
+      },
+      "account": {
+        "title": "In Ihrem Konto",
+        "subtitle": "In allen Tarifen enthalten",
+        "features": [
+          {
+            "title": "Unbegrenzter Wechsel",
+            "description": "Wechseln Sie jederzeit zwischen Formulartypen. Nutzen Sie das, was am besten zu Ihrem Restaurant passt."
+          },
+          {
+            "title": "20+ vorgefertigte Farben",
+            "description": "Nutzen Sie alle unsere bereitgestellten Farbschemata. Schön, professionell und getestet."
+          },
+          {
+            "title": "Individuelles Branding",
+            "description": "Auf Anfrage passen wir die Formulare an das Logo und die Farben Ihres Restaurants an."
+          }
+        ]
+      }
+    },
+  
+    "bookingManagement": {
+      "badge": "Buchungsverwaltung",
+      "title": "Verwalten Sie Ihre Buchungen",
+      "titleHighlight": "einfach und schnell",
+      "description": "Übersichtliche, moderne Oberfläche für die gesamte Buchungsverwaltung – in Echtzeit, an einem Ort.",
+      "tabs": {
+        "all": "Alle Buchungen",
+        "today": "Heutige Buchungen",
+        "pending": "Ausstehend"
+      },
+      "statusLabels": {
+        "confirmed": "Bestätigt",
+        "pending": "Ausstehend",
+        "cancelled": "Storniert"
+      },
+      "actions": {
+        "approve": "Genehmigen",
+        "reject": "Ablehnen",
+        "edit": "Bearbeiten",
+        "delete": "Löschen",
+        "addNote": "Notiz hinzufügen"
+      },
+      "bookingDetails": {
+        "guests": "Gäste",
+        "duration": "Dauer",
+        "hours": "Stunden",
+        "table": "Tisch",
+        "area": "Bereich"
+      }
+    },
+  
+    "support": {
+      "badge": "Premium-Support",
+      "title": "Wir stehen hinter Ihnen:",
+      "titleHighlight": "kontinuierlicher Support",
+      "description": "Wir wissen, dass die Gastronomie niemals schläft. Unser System ist darauf ausgelegt, ein solides Fundament zu bieten, aber wenn Sie jemals eine Frage haben, ist unser Team bereit zu helfen.",
+      "features": {
+        "support": {
+          "title": "7 Tage die Woche erreichbar",
+          "description": "Ob technische Anfrage oder Hilfe bei der Konfiguration, unser Support-Team ist jeden Tag der Woche verfügbar, um alle Probleme zu lösen."
+        },
+        "monitoring": {
+          "title": "Proaktive Systemüberwachung",
+          "description": "Wir warten nicht, bis Sie Probleme melden. Unsere automatisierten Systeme überwachen den Servicezustand rund um die Uhr und greifen sofort ein, wenn eine Anomalie erkannt wird."
+        },
+        "security": {
+          "title": "Datensicherheit & Backups",
+          "description": "Ihre Reservierungsdaten sind sicher. Wir führen regelmäßige automatisierte Backups durch und stellen sicher, dass die gesamte Kommunikation über verschlüsselte Kanäle erfolgt."
+        }
+      },
+      "cta": "Kontaktieren Sie uns"
+    },
+  
+    "features": {
+      "badge": "Funktionen",
+      "title": "Alles, was ein modernes",
+      "titleHighlight": "Restaurant braucht",
+      "description": "Komplettlösung von der Reservierungsverwaltung bis zur Geschäftsanalytik – alles an einem Ort.",
+      "learnMore": "Mehr erfahren",
+      "features": [
+        {
+          "title": "Tischplan",
+          "description": "Übersichtliche Tisch- und Gästeverwaltung, Echtzeitdaten und Ein-Klick-Export der Tagesreservierungen als PDF.",
+          "link": "/de/funkciok/asztalterkep"
+        },
+        {
+          "title": "Professionelle Gästeverwaltung",
+          "description": "Detaillierte Gästeprofile, Buchungshistorie und personalisierte Services.",
+          "link": "/de/funkciok/vendegkezeles"
+        },
+        {
+          "title": "Geschäftsanalytik",
+          "description": "Detaillierte Berichte, Umsatzanalyse und Echtzeit-Leistungskennzahlen.",
+          "link": "/de/funkciok/uzleti-jelentesek"
+        },
+        {
+          "title": "E-Mail-Automatisierung",
+          "description": "Automatische Erinnerungen, Bestätigungen und Feedback-Anfragen.",
+          "link": "/de/funkciok/automatikus-emlekeztetok"
+        },
+        {
+          "title": "Browser-Benachrichtigungen",
+          "description": "Push-Benachrichtigungen für neue Buchungen, Änderungen und Stornierungen in Echtzeit.",
+          "link": "/de/funkciok/bongeszo-ertesitesek"
+        },
+        {
+          "title": "QR-Code Check-in",
+          "description": "Gäste erhalten einen einzigartigen QR-Code – Verifizierung mit einem einzigen Scan bei Ankunft.",
+          "link": "/de/funkciok/qr-kod-bejelentkezes"
+        },
+        {
+          "title": "Dynamische Zeitregeln",
+          "description": "Automatische Anpassung der Buchungsdauer basierend auf der Gruppengröße.",
+          "link": "/de/funkciok/dinamikus-idoszabalyok"
+        },
+        {
+          "title": "Anpassbare Regeln",
+          "description": "Flexible Öffnungszeiten, besondere Tage und individuelle Buchungsbedingungen.",
+          "link": "/de/funkciok/testreszabhato-szabalyok"
+        },
+        {
+          "title": "Mobilfreundliche Oberfläche",
+          "description": "Responsives Design auf allen Geräten – Gäste können von überall buchen.",
+          "link": "/de/funkciok/mobilbarat-felulet"
+        }
+      ],
+      "bottomCta": {
+        "question": "Möchten Sie alle Funktionen testen?",
+        "subtitle": "30 Tage kostenlos, keine Kreditkarte erforderlich.",
+        "button": "Kostenlos testen"
+      }
+    },
+    "navbar": {
+      "links": {
+        "home": "Startseite",
+        "features": "Funktionen",
+        "pricing": "Preise",
+        "testimonials": "Bewertungen",
+        "faq": "FAQ",
+        "contact": "Kontakt"
+      },
+      "cta": "Kostenlos testen",
+      "ctaMobile": "Kostenlos starten",
+      "ariaNav": "Hauptnavigation",
+      "ariaMenuOpen": "Menü öffnen",
+      "ariaMenuClose": "Menü schließen",
+      "questions": "Fragen? Rufen Sie uns an!",
+      "langSwitcher": {
+        "label": "Sprache wählen",
+        "languages": {
+          "hu": "Magyar",
+          "en": "English",
+          "de": "Deutsch",
+          "es": "Español"
+        }
+      }
+    },
+  
+    "hero": {
+      "badge": "Vertraut von 185+ Restaurants",
+      "title": "Online-Tischreservierungssystem für Restaurants",
+      "description": "Reduzieren Sie No-Shows um bis zu 70% mit automatischen Erinnerungen. Intelligente Tischzuweisung, sofortige Benachrichtigungen, schöne E-Mail-Vorlagen – Einrichtung in 5 Minuten mit persönlichem Support.",
+      "ctaPrimary": "Kostenlos testen",
+      "ctaSecondary": "Funktionen ansehen",
+      "features": {
+        "notifications": "Auto-Benachrichtigungen",
+        "notificationsSub": "SMS + E-Mail",
+        "setup": "5 Minuten Einrichtung",
+        "setupSub": "Keine technischen Kenntnisse nötig",
+        "support": "Persönlicher Support",
+        "supportSub": "Echte Hilfe, schnell"
+      },
+      "timeline": {
+        "headerTitle": "Zeitplan",
+        "mobileTitle": "Heutige Buchungen",
+        "today": "Heute",
+        "live": "Live",
+        "indoor": "Innenbereich",
+        "guests": "Gäste",
+        "newBooking": "Neue Buchung!",
+        "checkIn": "Check-in",
+        "arrivedMsg": "angekommen",
+        "status": {
+          "confirmed": "Bestätigt",
+          "pending": "Ausstehend",
+          "arrived": "Angekommen"
+        }
+      }
+    }
+  }
